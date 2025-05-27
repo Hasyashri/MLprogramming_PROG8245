@@ -1,0 +1,501 @@
+date,customer_id,product,price,quantity,coupon_code,shipping_city,payment_method,order_status,delivery_date,customer_email
+2024-12-25,9caaf8f0-00d3-4ad3-97ce-3d1eab60a213,Keyboard,30,1,BUY1GET1,New York,Gift Card,Cancelled,2024-12-31,megan06@barber.info
+2024-09-29,2ece07de-8e70-4263-a145-98071691c5ca,Smartwatch,200,1,FREESHIP,San Jose,Gift Card,Delivered,2024-10-03,masonleah@yahoo.com
+2025-01-24,ed62c7bb-8800-4e3b-a07d-baff7e0eb2e0,Monitor,150,4,FREESHIP,New York,Gift Card,Pending,2025-01-26,tylerjackson@gmail.com
+2024-11-15,e14d1f5a-3e8b-4e9c-a751-c9bef918eb13,Smartwatch,200,4,WELCOME20,Chicago,Credit Card,Returned,2024-11-19,spearslinda@gates.biz
+2024-11-22,ba1c587c-7307-482d-b637-2221cc70c824,Laptop,1000,4,FREESHIP,San Antonio,Debit Card,Pending,2024-11-29,wisejacob@fisher-adams.net
+2024-12-17,7997cdc7-6bb9-4fa7-83fb-bd82adc9a4ae,Printer,100,2,BUY1GET1,San Antonio,Net Banking,Shipped,2024-12-24,brenda02@hotmail.com
+2024-03-10,8813efbf-6865-4a4b-bdaf-b85cb311f2a0,Smartwatch,200,5,FREESHIP,Phoenix,Credit Card,Returned,2024-03-14,deborah67@porter.info
+2023-06-02,613bee9a-64d1-49c4-b262-4530596701fc,Keyboard,30,2,BUY1GET1,Los Angeles,Net Banking,Shipped,2023-06-04,brandy33@hotmail.com
+2023-10-27,91d565b7-d2d1-43fa-ac33-f8f65e9691c0,Headphones,50,3,WELCOME20,Phoenix,PayPal,Cancelled,2023-11-03,wgomez@moore.com
+2023-10-05,9d354cd5-100b-4f68-ba5e-d55aa9620518,Monitor,150,5,BUY1GET1,New York,Credit Card,Cancelled,2023-10-08,ericsalazar@nelson.com
+2024-11-30,9de3b088-7803-4ed8-98ab-98376ef55277,Mouse,20,4,BUY1GET1,Phoenix,Credit Card,Cancelled,2024-12-02,christiankennedy@fisher.com
+2023-08-23,a5eef806-7dc9-4561-ab89-0d6e61794b11,Printer,100,5,SAVE10,Phoenix,Credit Card,Returned,2023-08-29,lozanojoseph@arias-cunningham.com
+2024-09-29,e4a15e1f-6f5d-4599-bb54-0e061e94249f,Tablet,300,1,SAVE10,Philadelphia,Net Banking,Pending,2024-10-06,mherman@yahoo.com
+2024-06-26,e510dd6a-8ebb-4fba-8bf1-a57537fc12cf,Monitor,150,4,BUY1GET1,Houston,Gift Card,Pending,2024-06-29,garciaandrew@newman-johnson.info
+2025-01-28,e133e35e-5b8a-448d-b624-21055aac8c69,Smartwatch,200,4,BUY1GET1,Chicago,PayPal,Returned,2025-02-04,robert99@yahoo.com
+2023-06-05,a86af49d-f174-468a-8048-a43815c57ee6,Tablet,300,3,SAVE10,Dallas,PayPal,Shipped,2023-06-08,johnjones@yahoo.com
+2024-02-19,59a0270d-a0a4-4a4e-b0db-ed5173116fbe,Mouse,20,3,FREESHIP,Philadelphia,Gift Card,Shipped,2024-02-26,juliehernandez@campos-garcia.com
+2025-01-21,58b3ae64-b0a1-4d92-892b-271b203baa7c,Monitor,150,3,BUY1GET1,New York,PayPal,Returned,2025-01-23,jeremy98@smith.biz
+2024-09-28,be06a918-8984-4288-8c27-e1c88e5d573b,Smartwatch,200,2,FREESHIP,San Diego,Debit Card,Pending,2024-10-01,holly59@gmail.com
+2024-05-08,f0249a98-4bc1-4def-b975-89e41f4253eb,Laptop,1000,3,BUY1GET1,San Antonio,PayPal,Pending,2024-05-14,dmatthews@gmail.com
+2025-03-05,9221fcab-c709-4ce9-ab12-df4e7b7e5a01,Printer,100,1,SAVE10,Phoenix,Debit Card,Returned,2025-03-07,bartoneric@gmail.com
+2023-05-31,7226a371-69c4-438f-87b9-8adaed23aff7,Printer,100,1,SAVE10,Houston,Gift Card,Cancelled,2023-06-03,anthony82@yahoo.com
+2023-09-07,4569481c-6a9c-43a5-b252-95f321358c3e,Printer,100,3,WELCOME20,San Antonio,Credit Card,Shipped,2023-09-10,christineyoung@yahoo.com
+2024-07-21,df3c95c8-10d1-4267-9082-90fe00d7ac7c,Mouse,20,1,WELCOME20,Houston,PayPal,Shipped,2024-07-24,michelle77@gmail.com
+2023-05-11,bb63b9a7-a8f2-46f9-b9ec-c08d454483e9,Smartwatch,200,2,SAVE10,New York,Gift Card,Cancelled,2023-05-15,butlerhailey@collier-torres.org
+2023-04-02,ee11e0ac-31f5-4c31-9f01-bac2ad5e081e,Smartphone,700,2,WELCOME20,Houston,Debit Card,Pending,2023-04-06,zsmith@yahoo.com
+2023-06-08,04eb2579-58cc-4d40-b01c-8a927bd5804d,Keyboard,30,3,FREESHIP,Phoenix,Credit Card,Shipped,2023-06-10,lvalencia@rodriguez.org
+2024-03-10,af97bff9-2e45-407b-a6d6-bc987af71b4f,Monitor,150,5,BUY1GET1,Philadelphia,Gift Card,Delivered,2024-03-13,tracypearson@fitzgerald-french.net
+2024-06-02,ce1f008b-f5f0-4913-84b9-2fc52ef72027,Monitor,150,1,WELCOME20,New York,Credit Card,Shipped,2024-06-04,leroymoore@rivera.com
+2023-08-24,2791dba1-6594-4156-95ab-bb7929d717ef,Headphones,50,4,FREESHIP,Philadelphia,Gift Card,Pending,2023-08-29,daniel19@robinson-rodgers.com
+2023-03-16,670c30d5-2fb5-4858-b0de-94a26f72571e,Smartphone,700,1,BUY1GET1,San Antonio,Gift Card,Delivered,2023-03-23,dawnbenson@martinez-burgess.com
+2023-04-04,a0404ec0-9283-4540-8676-64109ec616d5,Tablet,300,2,WELCOME20,Houston,Debit Card,Delivered,2023-04-08,christopherbrown@rodriguez.com
+2023-09-24,46034da0-134f-419c-a3ed-8fc88b82913c,Printer,100,2,WELCOME20,Chicago,PayPal,Returned,2023-09-26,yhowell@graves.com
+2024-12-29,3f6fd7ad-b884-4d51-9c35-f94ec7fb0c3e,Tablet,300,4,WELCOME20,Los Angeles,Net Banking,Cancelled,2025-01-04,mariacrosby@wells.com
+2024-01-30,847c4f63-b554-4674-9db0-9522f2e828e2,Printer,100,1,FREESHIP,Philadelphia,Credit Card,Shipped,2024-02-03,xmcneil@neal.info
+2023-04-26,820c4417-1dc9-4a5a-bb7e-9b9c0d5445a5,Smartphone,700,4,SAVE10,Dallas,Debit Card,Delivered,2023-04-29,kristinkramer@alexander-martinez.com
+2024-12-16,5bc655de-ffd1-43dd-9af7-ec79adf66f30,Keyboard,30,5,FREESHIP,Houston,PayPal,Shipped,2024-12-20,ckoch@cohen.com
+2023-03-16,1a4e4ccf-647c-4254-8e6d-3bd3c04a492a,Mouse,20,2,BUY1GET1,San Diego,Gift Card,Delivered,2023-03-21,yvonne76@gmail.com
+2023-07-16,83a6cecc-8c94-42cb-a9b4-38cbb1e08ace,Monitor,150,5,WELCOME20,San Jose,Net Banking,Delivered,2023-07-20,davisalexandra@spencer-jennings.biz
+2023-11-06,e50212c3-2e56-474d-bedd-313337374b34,Headphones,50,2,FREESHIP,Dallas,Gift Card,Returned,2023-11-11,hamiltoncheryl@lewis-kelly.com
+2024-07-30,0813bd5e-27b3-4739-afcd-19e98e343e57,Tablet,300,4,FREESHIP,Philadelphia,Debit Card,Shipped,2024-08-02,barbara97@gmail.com
+2025-01-17,6f00f77a-2b93-49aa-be94-2758102e47c6,Printer,100,4,WELCOME20,Chicago,Gift Card,Returned,2025-01-24,ufox@archer.com
+2023-08-03,71d6757e-ef69-474c-bba0-6bc71d462c60,Monitor,150,4,BUY1GET1,Houston,Credit Card,Shipped,2023-08-10,ashley31@boyer.org
+2023-11-09,ea6aeeba-fa4b-4692-b4c7-3e674c383d63,Smartwatch,200,4,WELCOME20,San Diego,Gift Card,Returned,2023-11-16,stephanie49@wilcox-lewis.info
+2023-07-17,110890fe-8d64-4723-ba4d-60c9e46d9479,Headphones,50,4,FREESHIP,New York,Credit Card,Cancelled,2023-07-24,elizabethvasquez@jones.info
+2025-03-13,355f6a23-6558-41c2-81cb-23d4812ecfbe,Monitor,150,3,BUY1GET1,San Diego,Credit Card,Returned,2025-03-20,curtis77@marquez.com
+2023-01-15,f468e2b3-1c31-40bf-a79d-313396c1da7e,Mouse,20,4,SAVE10,Houston,PayPal,Shipped,2023-01-22,ebarr@gmail.com
+2025-03-25,31ac39a3-5d81-417b-81c0-2c09221082b1,Keyboard,30,4,WELCOME20,Dallas,Credit Card,Returned,2025-03-31,collinsmarie@flores.com
+2024-01-28,53f1ac7f-dcd0-4cfa-97a7-7956dc977f6c,Printer,100,4,FREESHIP,Houston,Net Banking,Cancelled,2024-01-30,jgomez@gmail.com
+2024-03-30,065c9683-1c92-4125-b281-4d74acea6fce,Smartwatch,200,1,FREESHIP,San Diego,Net Banking,Delivered,2024-04-01,chad11@gmail.com
+2023-06-27,8293d806-6568-427a-95a9-4f038f7ac7d2,Smartphone,700,4,FREESHIP,New York,Net Banking,Shipped,2023-07-01,harperjustin@hotmail.com
+2023-10-30,661a1a90-10d5-43d7-8455-45183b697b73,Monitor,150,2,BUY1GET1,Dallas,Net Banking,Pending,2023-11-03,fmiller@davis-fischer.com
+2023-12-24,6d08a701-da13-4dea-9cf8-be964d4a76fb,Printer,100,3,WELCOME20,Chicago,Debit Card,Delivered,2023-12-28,manuelwoods@green.org
+2024-02-10,29dbf153-1f5d-4d45-865f-5f0333763efa,Laptop,1000,1,FREESHIP,San Diego,Net Banking,Returned,2024-02-16,bobbyhayden@gmail.com
+2023-05-25,a0eba254-7749-48c6-a172-ad7e24bd14cd,Mouse,20,2,FREESHIP,New York,Credit Card,Returned,2023-05-27,millertamara@hotmail.com
+2025-01-07,a89ee45e-a70f-43a8-bc6e-4108aa653b6b,Printer,100,5,WELCOME20,San Diego,Net Banking,Shipped,2025-01-10,pam02@wright-ellison.info
+2023-08-07,6bf824aa-58be-4408-ae7e-2fa842e11919,Tablet,300,5,FREESHIP,San Diego,Credit Card,Pending,2023-08-13,crawfordvalerie@hayes-ward.com
+2024-12-11,576beba6-8b87-41e7-902c-404607e68614,Monitor,150,4,SAVE10,New York,Credit Card,Delivered,2024-12-17,gdunn@taylor.org
+2024-05-30,fce1730f-a492-447a-8bd5-78e2b6a3e076,Monitor,150,4,WELCOME20,Chicago,Gift Card,Delivered,2024-06-02,zthompson@porter.com
+2024-02-23,dfdb1010-5b5e-4ca8-a141-2055a7b00390,Headphones,50,3,SAVE10,Chicago,Gift Card,Delivered,2024-02-29,gordonperez@berry-osborne.com
+2024-12-21,8fcc85ea-ef45-429c-a64c-650246e55005,Smartphone,700,5,SAVE10,Houston,Credit Card,Returned,2024-12-23,charles54@hotmail.com
+2023-01-08,97ed0da0-3274-4b90-b6b2-7e53b34642b3,Tablet,300,3,FREESHIP,San Antonio,Net Banking,Shipped,2023-01-11,tkhan@gmail.com
+2023-12-07,95ed7a2a-8225-495d-a81f-d4ac66ceec78,Smartphone,700,4,SAVE10,Houston,Net Banking,Cancelled,2023-12-11,lucasberry@owens.info
+2024-09-30,bec1df47-c1d5-4ede-8000-a60c2a4d8d4d,Laptop,1000,3,BUY1GET1,Philadelphia,Debit Card,Returned,2024-10-02,bromero@miller.info
+2024-08-07,b6a0565b-1198-46a0-90a1-137d3658dd6b,Monitor,150,1,SAVE10,Los Angeles,Net Banking,Shipped,2024-08-11,lwolfe@patton.com
+2024-07-06,52277f3a-62ba-4cbc-9529-69361dd7f638,Tablet,300,1,WELCOME20,Philadelphia,PayPal,Pending,2024-07-08,ajimenez@ibarra-lara.com
+2025-04-04,998be900-b96f-4997-8e6e-e09dc610fb55,Monitor,150,5,FREESHIP,Los Angeles,Credit Card,Cancelled,2025-04-07,raymondedwards@pacheco.net
+2023-04-05,06337c6c-c8e3-4d5e-a198-e01de87a1498,Smartphone,700,3,SAVE10,Chicago,Credit Card,Delivered,2023-04-09,xpalmer@benson.com
+2024-07-27,d6521b45-39ea-4dfc-80f9-5e7141b8896e,Smartwatch,200,3,BUY1GET1,Los Angeles,Net Banking,Shipped,2024-08-01,taylordanny@smith.net
+2023-06-25,30a1eb22-ce23-452f-ae7a-d47e226caa84,Tablet,300,2,SAVE10,Los Angeles,Gift Card,Cancelled,2023-06-28,vcarney@gmail.com
+2024-02-11,82f9caa9-c9be-432c-aba8-35d25354d4d0,Monitor,150,1,SAVE10,New York,Gift Card,Delivered,2024-02-14,brandongolden@schneider.biz
+2025-01-18,b9e863c4-6d86-4eeb-bf91-788f63511f2b,Monitor,150,2,FREESHIP,Philadelphia,Credit Card,Delivered,2025-01-25,gabrielle46@yahoo.com
+2023-01-05,0dd27d4d-6b7c-48e8-9b63-838efc0d50dc,Printer,100,5,FREESHIP,San Jose,Debit Card,Shipped,2023-01-07,erica06@maldonado.com
+2023-06-07,f5fb41ee-8451-4360-9bdf-165790b70ddf,Monitor,150,4,WELCOME20,San Jose,PayPal,Pending,2023-06-10,matthew92@yahoo.com
+2023-07-07,d35fb223-ed10-4e96-b233-126978fc8cfa,Smartphone,700,5,WELCOME20,Los Angeles,PayPal,Shipped,2023-07-12,xsawyer@hotmail.com
+2024-07-02,9bb893fb-d7c7-46cd-bde6-827e814f0c48,Keyboard,30,3,FREESHIP,San Jose,Net Banking,Returned,2024-07-05,ecollins@hotmail.com
+2023-05-12,a32fc1ee-86b4-4aa4-b046-449bf4d9db2f,Smartwatch,200,3,BUY1GET1,Phoenix,Gift Card,Shipped,2023-05-15,bschaefer@gmail.com
+2023-06-08,cd2c6f9f-cf28-4f89-9fc1-24f65f7949c8,Headphones,50,3,BUY1GET1,Philadelphia,Debit Card,Delivered,2023-06-12,boonechristopher@hotmail.com
+2024-11-08,5bbaef41-6158-445e-8fa0-854dbd21beff,Smartwatch,200,3,FREESHIP,New York,Net Banking,Cancelled,2024-11-15,hansonsonya@hotmail.com
+2024-12-29,ac47434d-a2f8-41fc-b3f2-a05cf9ebf513,Keyboard,30,4,SAVE10,Dallas,Debit Card,Shipped,2024-12-31,thomas52@yahoo.com
+2024-04-20,8000914e-b4a3-479b-aedc-2b7658664918,Smartwatch,200,2,FREESHIP,Chicago,Gift Card,Pending,2024-04-22,mosleyjames@hotmail.com
+2024-04-24,0588e929-52af-489a-9178-9d3d4db39ba2,Mouse,20,2,SAVE10,Phoenix,PayPal,Delivered,2024-04-28,samuelmitchell@smith.biz
+2024-12-04,e7c45fbb-105a-47fa-9c15-2341eeb2e145,Monitor,150,5,WELCOME20,San Diego,Credit Card,Delivered,2024-12-09,lewissusan@gmail.com
+2023-05-01,e7d1e9a7-565a-4f5a-a1b6-1e5d123f318b,Mouse,20,5,FREESHIP,San Jose,Gift Card,Pending,2023-05-04,vgarcia@hotmail.com
+2023-08-27,4cfabd39-8c29-4118-82b3-d5eff1aea523,Smartphone,700,1,BUY1GET1,Phoenix,Credit Card,Delivered,2023-08-30,lewisjasmine@wells.com
+2025-02-10,d7a9893f-dc25-4a14-857e-3a12d85ea4ba,Headphones,50,4,SAVE10,Philadelphia,Credit Card,Shipped,2025-02-14,adamsalexander@hotmail.com
+2024-09-18,4dec08ba-4262-4e4e-ad03-88a09480709a,Smartwatch,200,2,BUY1GET1,New York,Credit Card,Cancelled,2024-09-22,dixonshawn@hotmail.com
+2024-08-23,8d8e27b6-7808-4364-992b-8da00de5cda8,Laptop,1000,3,SAVE10,Philadelphia,Gift Card,Shipped,2024-08-28,mpetersen@rogers.com
+2023-05-01,fc67c8c7-0b0f-49af-be55-1f951710dbbc,Headphones,50,2,BUY1GET1,San Diego,Debit Card,Cancelled,2023-05-06,mtapia@hotmail.com
+2023-11-09,6b6f0c2c-f6d6-4c34-ba9f-74e5f30da772,Laptop,1000,1,FREESHIP,New York,Net Banking,Cancelled,2023-11-14,pleon@mullins-stewart.org
+2023-07-17,69132aeb-dc6a-4795-9cfc-e6968774281e,Headphones,50,2,WELCOME20,Phoenix,PayPal,Delivered,2023-07-19,hhardy@evans.biz
+2024-02-23,3bb42eaa-76c3-494d-92c3-187baaa9e8bc,Tablet,300,4,BUY1GET1,San Antonio,Debit Card,Cancelled,2024-02-28,ewilliams@matthews-russell.org
+2025-02-06,a1393a4e-0184-47f2-a0a7-1b3a0751034f,Tablet,300,1,SAVE10,New York,Net Banking,Pending,2025-02-08,vjones@hotmail.com
+2024-08-24,db1078bb-4fed-4ce4-a0e0-11ce84cfbc14,Smartphone,700,2,BUY1GET1,Dallas,Net Banking,Pending,2024-08-28,johnsonchristie@dawson.com
+2023-10-17,87f38393-3e3a-40f3-9e51-eb27ed304f46,Printer,100,1,SAVE10,Philadelphia,PayPal,Shipped,2023-10-22,meltonbrittany@yahoo.com
+2023-04-23,7485d4f8-be95-4a8e-b730-2dfb66f29ee4,Tablet,300,1,SAVE10,Los Angeles,PayPal,Delivered,2023-04-28,christianbecker@garrett.com
+2023-01-07,0c33b396-80cc-46a7-beb3-3c69eb3fbc00,Headphones,50,1,SAVE10,Houston,Gift Card,Cancelled,2023-01-14,travis98@thompson.net
+2023-06-06,b228e705-8941-47c9-a6ca-d4c26dccd5ca,Tablet,300,4,WELCOME20,Phoenix,PayPal,Shipped,2023-06-10,shannonjohnson@adams-wade.biz
+2023-11-06,d51116ce-7d1c-4ff7-950a-3a1bd57b8d33,Laptop,1000,5,BUY1GET1,Phoenix,Net Banking,Returned,2023-11-09,tjensen@brady.com
+2024-09-19,fccf91d1-ec36-4b15-a73f-a056898c60b1,Printer,100,3,WELCOME20,Los Angeles,Debit Card,Pending,2024-09-23,laurensanchez@yahoo.com
+2023-07-18,f67291cd-4dd4-45d9-a122-74bf8c022ae5,Monitor,150,5,FREESHIP,Houston,Gift Card,Delivered,2023-07-25,mendozaandrew@yahoo.com
+2024-04-15,3861972e-74c5-4c8c-9ad5-e1d89aaf070c,Smartwatch,200,4,BUY1GET1,New York,Debit Card,Pending,2024-04-20,livingstonwendy@smith-bates.biz
+2025-04-13,b02d3685-be71-4c98-99d1-1dcb96d023b4,Smartwatch,200,5,SAVE10,Dallas,Net Banking,Shipped,2025-04-17,owenkyle@mendez-anderson.com
+2023-09-17,3f46e967-1960-474d-979e-2b0d571ef56a,Smartphone,700,1,FREESHIP,Philadelphia,Debit Card,Delivered,2023-09-19,austincollier@johnson.com
+2023-04-05,c0ce3c24-c152-4a20-9ad7-5c09c6eb7a4a,Smartphone,700,1,SAVE10,Phoenix,Debit Card,Returned,2023-04-07,thomas46@wright-dominguez.com
+2024-04-14,b3c7e2d7-4938-4b16-a878-7ab5c6edf6f7,Smartwatch,200,1,FREESHIP,Phoenix,PayPal,Cancelled,2024-04-21,chris42@yahoo.com
+2024-06-07,d74ce039-3509-4c91-bf43-bbf991de9000,Smartwatch,200,2,BUY1GET1,New York,Net Banking,Returned,2024-06-10,michaelflowers@hotmail.com
+2023-06-11,98f0c6ea-beae-4bb8-87b6-20fcb67cf46f,Smartwatch,200,5,FREESHIP,New York,Debit Card,Shipped,2023-06-13,amber24@king-johnson.com
+2024-05-01,b586215d-5a1b-44a5-8987-d03ab785861c,Monitor,150,3,WELCOME20,Philadelphia,Debit Card,Returned,2024-05-07,shannonroman@weber.org
+2025-04-21,7fdc7bbf-a9e9-4e61-bdf6-9a7e26610fed,Printer,100,1,BUY1GET1,San Antonio,Credit Card,Delivered,2025-04-25,ccarroll@yahoo.com
+2025-01-20,f0156579-13d8-41ca-85b9-8a92c506900e,Smartwatch,200,4,FREESHIP,Houston,Credit Card,Returned,2025-01-27,steven52@salinas-anderson.com
+2024-06-16,b201605b-a880-4b45-8eb3-254adad07603,Printer,100,3,FREESHIP,Philadelphia,Credit Card,Delivered,2024-06-21,kingjennifer@gmail.com
+2024-12-15,aff7d9b1-6609-499f-97c1-a7c700c2f4e2,Tablet,300,4,BUY1GET1,New York,Debit Card,Cancelled,2024-12-17,yhorton@kennedy.com
+2024-08-05,a7e5bfcf-b7ff-4547-a558-aaa548e17f78,Smartwatch,200,5,FREESHIP,Philadelphia,Debit Card,Pending,2024-08-08,lsmith@marshall-nelson.com
+2023-07-12,ebb2e114-ab78-4493-9b4b-e58e5c03eeeb,Keyboard,30,5,WELCOME20,San Jose,Debit Card,Pending,2023-07-15,sandra46@gmail.com
+2023-04-17,ef61799d-22ae-431a-8b25-9a0f557e9b15,Mouse,20,1,FREESHIP,Los Angeles,Credit Card,Returned,2023-04-24,cody91@mejia.com
+2023-11-14,6b72ff06-e106-40ad-9aca-58c690e09560,Headphones,50,1,BUY1GET1,Chicago,Net Banking,Pending,2023-11-17,imeyer@goodman-robinson.biz
+2023-01-11,53a9ff01-57de-4804-a0e4-be1e6adfa510,Mouse,20,1,SAVE10,San Jose,Gift Card,Cancelled,2023-01-17,robert66@maldonado.com
+2025-03-09,ebc2ff70-4373-46e0-89ff-1f55f125a096,Smartwatch,200,5,SAVE10,San Antonio,Gift Card,Pending,2025-03-16,brendayoung@paul.com
+2023-12-03,516f8ea5-9749-42de-ad25-511d068b9952,Smartwatch,200,2,SAVE10,Chicago,Credit Card,Cancelled,2023-12-08,davidtaylor@yahoo.com
+2024-07-15,7b6cfbb6-d6c0-41c7-953e-6b62d78cd46d,Laptop,1000,4,WELCOME20,New York,PayPal,Delivered,2024-07-21,lauralopez@green.org
+2024-01-24,8b6f57f7-b429-425c-9252-2e3534a9afb1,Printer,100,2,FREESHIP,San Diego,Credit Card,Shipped,2024-01-31,wendyjohnson@hotmail.com
+2024-02-01,d8592724-3293-4b90-bd4d-3e69c8fb6a11,Mouse,20,1,FREESHIP,New York,Gift Card,Pending,2024-02-05,gary72@yahoo.com
+2023-11-01,94687a0b-2dac-4deb-b37f-717223810ac6,Printer,100,4,BUY1GET1,Houston,Gift Card,Pending,2023-11-03,gloverchristina@yahoo.com
+2023-10-22,8b31b99f-a767-4f29-b7ca-ed4f410fa562,Tablet,300,5,FREESHIP,San Antonio,Net Banking,Delivered,2023-10-24,michaeldavis@wright.net
+2025-02-15,d960102b-6c1c-45aa-a69e-4bcbe75d852d,Smartwatch,200,4,BUY1GET1,Philadelphia,Credit Card,Cancelled,2025-02-21,seth09@brown-moss.com
+2023-08-03,0bd93f48-5599-4363-ab20-795f34145fa5,Smartphone,700,3,WELCOME20,Dallas,PayPal,Returned,2023-08-08,kathryn07@woods.org
+2023-01-25,9d976c71-a941-47ca-9d8b-9b786dc97d16,Printer,100,2,WELCOME20,Houston,Gift Card,Delivered,2023-01-27,louis04@gmail.com
+2025-02-09,99ea4fbf-f893-4aaf-b36e-54026eed84ca,Monitor,150,3,FREESHIP,Phoenix,PayPal,Cancelled,2025-02-15,floyddenise@smith.com
+2023-03-21,65b77e47-1cfd-42c9-86e3-26d1dae7d288,Keyboard,30,3,WELCOME20,New York,Credit Card,Shipped,2023-03-28,christopherwoods@smith.biz
+2024-10-03,13b4af62-43bf-4bba-85c2-17c06bf38830,Headphones,50,5,SAVE10,San Antonio,Debit Card,Returned,2024-10-06,uhunter@goodwin-bradford.biz
+2024-04-20,84fc478e-1a99-4db1-893d-219df50ab2ad,Headphones,50,3,BUY1GET1,Chicago,Credit Card,Shipped,2024-04-27,ldouglas@yahoo.com
+2023-09-29,5b29356c-9697-4a56-a318-64941129ed7e,Headphones,50,4,SAVE10,New York,Net Banking,Returned,2023-10-01,graysteven@hotmail.com
+2024-12-17,151dd4f6-7412-424a-aef6-3462de65ef1a,Monitor,150,5,SAVE10,Phoenix,PayPal,Delivered,2024-12-24,chandlerdaniel@hotmail.com
+2024-09-03,feaa918f-252c-4756-9342-7150a190fbfd,Tablet,300,5,SAVE10,Phoenix,Net Banking,Cancelled,2024-09-06,jasongarcia@gmail.com
+2024-06-02,879c43dc-cf13-4184-82b2-e9f5dd799bc8,Smartphone,700,4,SAVE10,Phoenix,Debit Card,Returned,2024-06-09,brian95@hotmail.com
+2025-04-07,e401276a-b335-4d9d-92e6-2f9268d5a722,Smartphone,700,1,WELCOME20,San Jose,Net Banking,Pending,2025-04-09,singhjackson@anderson.com
+2024-07-26,3e6dde41-2208-4dd3-a7aa-4fe638f8bd0c,Smartwatch,200,3,FREESHIP,Philadelphia,Debit Card,Shipped,2024-08-01,kathleen02@burns-benitez.com
+2023-02-25,01352eeb-1ca2-47ee-8f42-d5ed0cfa62eb,Tablet,300,1,BUY1GET1,San Jose,Net Banking,Returned,2023-02-27,vanessahernandez@smith.org
+2023-09-11,4b7b57ca-12ae-464d-91f2-4ad33b1b7ef8,Printer,100,2,WELCOME20,Phoenix,Credit Card,Pending,2023-09-14,ojuarez@gmail.com
+2023-10-14,5499de1f-b743-4d54-a966-61c47e0ab4e9,Smartphone,700,3,WELCOME20,Dallas,Credit Card,Pending,2023-10-19,whaynes@carson.net
+2025-02-08,7b087be7-fa78-4956-bb63-3fbadf31e1f1,Monitor,150,3,WELCOME20,Phoenix,Net Banking,Pending,2025-02-10,mgray@hotmail.com
+2024-01-19,9bf8fe16-4f1e-46d1-9e8d-d8fa7400d67b,Headphones,50,1,FREESHIP,San Jose,Debit Card,Shipped,2024-01-25,catherineoneal@hotmail.com
+2023-02-18,d0d52c7f-2d6e-42f5-af39-838f81152604,Printer,100,2,SAVE10,Dallas,Credit Card,Returned,2023-02-24,mevans@yahoo.com
+2024-07-16,65facf34-4273-42eb-8186-25a9de78d940,Tablet,300,4,WELCOME20,Dallas,Credit Card,Returned,2024-07-18,danielsdaniel@martinez-rodriguez.info
+2023-11-29,9ef86a2b-4487-4a41-acbc-6cc4eed2a3e2,Tablet,300,4,BUY1GET1,San Diego,Net Banking,Cancelled,2023-12-05,robert94@good.biz
+2023-01-08,b269feaa-f7b0-4a7f-9b69-8ac24018bbbc,Monitor,150,5,FREESHIP,New York,PayPal,Cancelled,2023-01-12,glynch@gmail.com
+2023-05-07,6c34e596-feb5-4352-88d7-fad8c4921525,Mouse,20,2,WELCOME20,San Jose,Gift Card,Cancelled,2023-05-13,hannahparker@hotmail.com
+2024-10-10,70bb9475-1fe4-4a9b-a5a2-795dcf0bce38,Smartphone,700,1,FREESHIP,Houston,PayPal,Returned,2024-10-17,cliffordclark@hotmail.com
+2023-03-31,8987881a-ff2e-4c84-a498-f8794b302db9,Smartphone,700,4,WELCOME20,Philadelphia,Gift Card,Cancelled,2023-04-02,ethanpruitt@lester-martin.info
+2025-01-13,e500c9ca-0d26-4588-9cd5-1f75841b9c56,Tablet,300,1,BUY1GET1,Chicago,Credit Card,Pending,2025-01-19,nlopez@hotmail.com
+2023-06-15,0a1de2c0-0be6-41ea-9070-28824bf886db,Smartphone,700,5,FREESHIP,Philadelphia,Debit Card,Shipped,2023-06-19,jessicapearson@gmail.com
+2025-01-09,b7d1556a-7366-4baa-b18e-722fdf2928a5,Keyboard,30,5,BUY1GET1,San Diego,Credit Card,Delivered,2025-01-13,jamiejohnson@jones.info
+2023-03-06,d6ef448d-bd30-46df-983b-24f3f2a5e03e,Printer,100,4,FREESHIP,Phoenix,PayPal,Cancelled,2023-03-13,jennifer53@reid-arellano.info
+2023-08-27,730470e7-8c5a-4810-ad80-c43fb898e11a,Keyboard,30,4,BUY1GET1,San Diego,PayPal,Returned,2023-09-02,martincarlson@yahoo.com
+2025-01-06,7dc552c4-e2e9-4292-9fe4-9bc1e58cbf25,Printer,100,2,FREESHIP,Dallas,Debit Card,Returned,2025-01-13,pamelacannon@howard.com
+2025-02-02,2570e6c9-99e3-4dfb-8d52-6cbf876a8f9b,Monitor,150,1,FREESHIP,Phoenix,Net Banking,Delivered,2025-02-09,hwatson@jones-kim.com
+2024-09-18,5d7677f6-85ab-4bce-bba9-84b0896e0678,Keyboard,30,3,BUY1GET1,Los Angeles,Net Banking,Cancelled,2024-09-23,jessicabeltran@hotmail.com
+2023-09-07,b5feb1a3-8732-477d-ba7a-bd152941e81e,Monitor,150,4,WELCOME20,Philadelphia,Gift Card,Pending,2023-09-12,kgreen@hotmail.com
+2024-04-04,ac548778-e69d-46dd-bb8a-be3adeedd8c6,Smartphone,700,2,WELCOME20,New York,Gift Card,Cancelled,2024-04-07,greenmary@smith-anderson.info
+2024-02-01,2c5cec67-29b8-41e2-aef8-fe7799ebb73a,Mouse,20,3,BUY1GET1,Dallas,PayPal,Returned,2024-02-03,parkerjohn@yahoo.com
+2024-05-11,27abaecf-8f3d-47f2-8acb-dd7991497e37,Mouse,20,2,FREESHIP,Los Angeles,Debit Card,Shipped,2024-05-14,jonesjessica@cooper-brown.org
+2023-06-16,cc5a55c7-0a52-4574-8d1c-81a1b947cc83,Laptop,1000,2,FREESHIP,San Jose,PayPal,Delivered,2023-06-20,pamela77@gmail.com
+2025-03-02,399842eb-de67-41a9-95fd-79053d887fae,Mouse,20,4,FREESHIP,Chicago,Debit Card,Delivered,2025-03-09,markduran@woods.com
+2025-02-20,c0c02748-ccb8-4f84-8a5f-69f13f375f24,Headphones,50,1,WELCOME20,San Antonio,Debit Card,Cancelled,2025-02-22,ericanderson@wallace.com
+2024-10-31,acfbdfbf-da7c-4d7b-abea-6917e0cea07c,Headphones,50,1,SAVE10,San Diego,Gift Card,Delivered,2024-11-04,steven45@yahoo.com
+2025-04-26,9b238209-306a-4b18-8fbb-16ec8d6847ad,Monitor,150,5,FREESHIP,San Jose,Credit Card,Cancelled,2025-05-03,tiffany71@acosta-stewart.com
+2023-12-07,ed23c421-001e-4c92-8ec9-55b7d7529c69,Smartphone,700,5,SAVE10,San Diego,PayPal,Shipped,2023-12-11,elizabethwagner@mclaughlin.com
+2024-08-23,b3acf307-cac1-490d-bf7c-f962476374f7,Headphones,50,3,FREESHIP,Dallas,Debit Card,Cancelled,2024-08-28,smoreno@pierce.com
+2023-05-11,e706da66-226f-4402-b53e-13ac6ca01c9b,Mouse,20,2,SAVE10,San Diego,Debit Card,Delivered,2023-05-17,csolomon@thompson.net
+2024-11-19,3e7ee938-3fe4-4e82-8a50-95ff04591685,Keyboard,30,3,BUY1GET1,San Jose,Credit Card,Delivered,2024-11-24,mooreisabella@white-lawson.com
+2023-06-30,b32b652a-cf95-42a0-902a-f186c6e540cc,Smartwatch,200,2,WELCOME20,Houston,PayPal,Delivered,2023-07-07,carriegarza@douglas-nguyen.org
+2024-09-18,b8bf755e-5da3-435c-a461-466cd0835333,Smartwatch,200,4,SAVE10,Los Angeles,PayPal,Shipped,2024-09-25,rdelgado@maldonado.com
+2024-03-15,8ba96f09-f090-4fc4-85a3-4c6d6b87e0e2,Headphones,50,1,SAVE10,Los Angeles,Credit Card,Cancelled,2024-03-17,melissa27@howard.info
+2024-09-01,95e8360e-71f5-4585-ae18-be210d550227,Keyboard,30,2,SAVE10,San Antonio,Gift Card,Delivered,2024-09-04,danielsmith@rocha-jones.com
+2024-12-13,80b2a95e-cce7-46d5-aeec-44dd09fb2c8c,Headphones,50,3,WELCOME20,Dallas,Debit Card,Cancelled,2024-12-20,randall05@velasquez-thompson.com
+2025-04-06,90dcffdd-d4da-4040-9b47-f4f53e3b37e9,Tablet,300,4,WELCOME20,Phoenix,Gift Card,Returned,2025-04-13,qnguyen@massey.com
+2024-02-27,1c517b7f-e2d5-4a33-b9ac-d10ee00def95,Monitor,150,1,SAVE10,Houston,PayPal,Cancelled,2024-02-29,barnold@hotmail.com
+2023-09-02,ca817c52-ee12-497f-baf1-8e86e9eac32d,Laptop,1000,4,FREESHIP,Dallas,Gift Card,Cancelled,2023-09-04,justinfreeman@yahoo.com
+2024-02-10,7ffe2f86-22e1-43cf-837d-2f8c62ad40ad,Smartphone,700,3,WELCOME20,Los Angeles,PayPal,Delivered,2024-02-13,jimenezdeborah@anderson.biz
+2024-10-11,2cb15aa9-f5da-4d18-842d-c0a392be1ab4,Mouse,20,5,FREESHIP,Dallas,Net Banking,Delivered,2024-10-17,ksanchez@gmail.com
+2025-03-20,8bd78fc7-257c-4174-ad8a-ee9d76488426,Mouse,20,3,SAVE10,Chicago,Debit Card,Shipped,2025-03-22,beckvanessa@hayes.com
+2025-02-14,33555019-158b-409c-b52c-31badd49d460,Keyboard,30,2,WELCOME20,San Diego,Credit Card,Pending,2025-02-18,thorntonmaria@wagner-wolf.com
+2023-03-21,a1095658-11c4-498f-a51c-15b0f46e1c82,Laptop,1000,3,BUY1GET1,Chicago,PayPal,Returned,2023-03-25,julie72@yahoo.com
+2023-12-04,f1de2703-b835-4ebd-829d-7ba16210bf17,Headphones,50,4,BUY1GET1,Houston,Credit Card,Cancelled,2023-12-10,amandamason@hotmail.com
+2024-12-29,e62061a4-cd5c-40af-a6e3-3f3355c6f57d,Keyboard,30,5,BUY1GET1,San Antonio,Credit Card,Delivered,2025-01-05,taramarshall@yahoo.com
+2023-04-06,be34b614-5455-46cb-bb75-51b50112b745,Headphones,50,2,BUY1GET1,Los Angeles,PayPal,Shipped,2023-04-11,emcintyre@nguyen.info
+2025-04-28,3cecd545-f984-44bf-b7a6-4d4308486774,Laptop,1000,1,SAVE10,Philadelphia,Gift Card,Pending,2025-04-30,stephanie26@gmail.com
+2025-01-15,6b9d5c61-349e-4e7b-a9c4-4af7712b732e,Laptop,1000,3,WELCOME20,San Antonio,Debit Card,Returned,2025-01-17,tanyaschmidt@hotmail.com
+2024-03-22,10c2b7cc-544d-4632-a5fe-79a516cf1a20,Smartphone,700,1,FREESHIP,Los Angeles,Gift Card,Shipped,2024-03-24,garciacaleb@hotmail.com
+2024-04-13,72f03946-f208-4ece-a3ce-037e7906996d,Keyboard,30,5,FREESHIP,San Antonio,Gift Card,Returned,2024-04-19,kelsey37@hotmail.com
+2023-08-19,68a38d7f-b2e8-4bbf-80c3-c7d00532968a,Smartphone,700,4,BUY1GET1,Phoenix,Net Banking,Returned,2023-08-25,samantha41@hotmail.com
+2023-02-04,70ca16ba-b1b3-43b7-b0dc-b96d3c11d49b,Mouse,20,4,BUY1GET1,Philadelphia,Net Banking,Cancelled,2023-02-10,matthew51@yahoo.com
+2024-07-04,b76fcd4f-f0ba-4567-bee8-55b65fc0790b,Monitor,150,2,BUY1GET1,Chicago,Credit Card,Delivered,2024-07-11,dustinfreeman@whitaker.com
+2024-02-12,de843ace-f818-439a-8ccc-2540ec8ce932,Headphones,50,2,SAVE10,Chicago,Gift Card,Cancelled,2024-02-15,imurphy@hotmail.com
+2023-06-16,51c78951-aa91-4ce6-9671-07102e4e9f0f,Tablet,300,1,SAVE10,San Jose,Net Banking,Pending,2023-06-18,xjackson@gmail.com
+2023-11-14,54a794f9-546c-4815-a7a7-1f3922c8fe9f,Printer,100,4,SAVE10,San Antonio,PayPal,Returned,2023-11-20,jorgekane@yahoo.com
+2023-07-08,6d74917b-3b72-4eee-9dd6-7b9557b42db9,Tablet,300,1,FREESHIP,Los Angeles,Debit Card,Pending,2023-07-12,uwebb@yahoo.com
+2023-05-09,7d550d8d-c3cf-433c-9c98-1ca60397c8c4,Printer,100,5,WELCOME20,Dallas,Debit Card,Delivered,2023-05-11,ramossamuel@gonzales-pierce.com
+2023-08-16,b91d976c-92d3-4254-91e8-28880e427014,Keyboard,30,5,WELCOME20,Los Angeles,Debit Card,Pending,2023-08-23,adam49@henry.net
+2023-07-20,45684ffd-fa22-4ee3-881f-414c201b3636,Monitor,150,2,FREESHIP,San Jose,Net Banking,Delivered,2023-07-26,john44@hotmail.com
+2023-09-08,e4265049-783f-425f-9d46-6d6d39f0955a,Tablet,300,2,FREESHIP,San Antonio,Net Banking,Shipped,2023-09-14,jennifersnyder@robertson-callahan.com
+2024-12-22,7fd5360c-412d-494a-b76d-e6d5025cd58c,Tablet,300,1,BUY1GET1,Philadelphia,Debit Card,Returned,2024-12-24,nhenson@yahoo.com
+2024-03-02,a4303bb3-645b-4a06-8fdd-7f2a0e5d2a04,Smartphone,700,5,WELCOME20,Dallas,Net Banking,Returned,2024-03-04,cmartin@yahoo.com
+2024-05-25,e1447935-1a5d-49f5-9443-eba4cecc0d5d,Headphones,50,3,SAVE10,Los Angeles,Debit Card,Cancelled,2024-05-30,shaun68@gmail.com
+2024-05-23,f459d54f-3c6f-45ae-94c5-d161895f39a9,Headphones,50,3,FREESHIP,Phoenix,Net Banking,Shipped,2024-05-27,herreratroy@hansen.com
+2023-11-20,6c8f0155-49f0-4683-bf15-4ca8a53e70db,Monitor,150,1,BUY1GET1,Phoenix,Debit Card,Pending,2023-11-23,gmiller@yahoo.com
+2024-01-04,118d9d73-883d-4ef5-8c97-8d4029462be0,Printer,100,1,FREESHIP,Philadelphia,Gift Card,Pending,2024-01-09,rclark@franklin.org
+2023-11-30,52d79094-cf65-42e1-97f6-52b74f6bfeba,Smartphone,700,5,SAVE10,Phoenix,PayPal,Shipped,2023-12-02,howardmichael@campbell-young.com
+2024-01-30,0ac3c5e6-c092-4335-acc5-f2ca4374e126,Printer,100,1,FREESHIP,Dallas,Debit Card,Pending,2024-02-06,phillipsdanielle@byrd.com
+2023-05-11,cd018f25-f4c7-4132-bf91-a754f111d2a4,Smartwatch,200,2,WELCOME20,Phoenix,Net Banking,Pending,2023-05-17,taylortravis@taylor.com
+2023-03-29,ba0de91f-2a91-4d2c-be5e-66b9b0ccbb50,Tablet,300,5,BUY1GET1,Phoenix,Net Banking,Delivered,2023-04-01,idavis@king-lutz.net
+2024-04-14,a595b02a-d298-4a24-b608-0943a425df25,Tablet,300,5,BUY1GET1,Phoenix,Gift Card,Returned,2024-04-17,mark73@hotmail.com
+2024-02-12,35af51be-b686-450a-bc3a-262d8985cf48,Mouse,20,2,WELCOME20,San Diego,PayPal,Pending,2024-02-14,dfisher@hotmail.com
+2024-11-25,dcdc4297-0e06-4cbc-84bd-665b48e8e742,Smartwatch,200,4,BUY1GET1,Chicago,Net Banking,Pending,2024-11-30,syoung@martinez-brown.com
+2025-04-14,ab5e812d-e767-4f25-bf5d-83b4edecb9a2,Smartwatch,200,2,SAVE10,Los Angeles,Debit Card,Shipped,2025-04-18,luisdrake@gmail.com
+2025-03-19,ab2b45e9-3caa-428c-bdc7-c7ed9cd721d2,Printer,100,1,BUY1GET1,Chicago,Debit Card,Delivered,2025-03-26,jamesmichael@gmail.com
+2023-06-27,a5c2fef4-af3d-4dde-b1ee-9f1cd2b942aa,Smartphone,700,5,WELCOME20,Houston,Gift Card,Pending,2023-06-29,mejiachristopher@allen-howard.com
+2023-12-30,3407ea97-39be-4ede-a543-256c34ab286c,Monitor,150,3,FREESHIP,New York,Net Banking,Shipped,2024-01-01,mcdonaldmary@macias.com
+2024-12-13,c58ae3a6-bd1b-4fe6-93c0-0de9f38cccf3,Tablet,300,4,FREESHIP,Los Angeles,Credit Card,Cancelled,2024-12-17,karen25@hotmail.com
+2023-03-30,74b0b428-1a1e-4c68-9b48-09d4df3edaf3,Printer,100,1,WELCOME20,Phoenix,Credit Card,Returned,2023-04-01,amassey@yahoo.com
+2025-01-13,44521d87-ce94-4487-b88c-abcb3e2984c3,Headphones,50,3,SAVE10,Dallas,Credit Card,Cancelled,2025-01-18,ramospatrick@larson.com
+2023-07-05,89aac311-adcc-4c8a-8c31-7b7e6644b2a1,Mouse,20,1,BUY1GET1,Dallas,Credit Card,Returned,2023-07-07,ronaldsmith@hotmail.com
+2025-01-24,840b3554-fd1b-4977-8843-ede0667359ad,Smartphone,700,1,SAVE10,Houston,Debit Card,Pending,2025-01-31,rickymiller@hotmail.com
+2024-06-11,bdc3ff9c-0879-450c-ad50-20e6ba8e7ee6,Headphones,50,3,FREESHIP,Chicago,Debit Card,Returned,2024-06-15,wburke@yahoo.com
+2023-10-19,73b44db3-f3aa-4638-9212-42a8bf03fe3f,Monitor,150,2,WELCOME20,Chicago,Gift Card,Shipped,2023-10-26,nicholsamanda@conley.com
+2023-11-17,6880dfb5-78e8-4078-bcae-b848c4da929a,Smartphone,700,4,FREESHIP,Houston,Credit Card,Shipped,2023-11-20,vingram@brown.org
+2025-01-13,225ddff6-fe80-4229-b70e-36ad766edc1c,Headphones,50,1,WELCOME20,San Antonio,Debit Card,Returned,2025-01-18,osbornangela@yahoo.com
+2024-07-22,69114dec-c060-4f6c-a5cc-aa4359fcc7a7,Tablet,300,5,FREESHIP,San Antonio,Debit Card,Shipped,2024-07-24,anthony37@stone-nunez.net
+2024-12-08,17a4c3ba-22cf-4313-9a07-d774b111b19f,Laptop,1000,1,SAVE10,Houston,Debit Card,Returned,2024-12-12,julianvillegas@molina.com
+2024-07-28,59377caf-eebf-4475-ab6f-8c9ee05eaa17,Laptop,1000,5,FREESHIP,New York,PayPal,Cancelled,2024-08-01,toddarcher@yahoo.com
+2023-12-22,4bc79bd3-6174-4fd6-ade8-582ecdce1994,Mouse,20,3,BUY1GET1,Phoenix,Credit Card,Delivered,2023-12-29,howellmichelle@gonzalez.info
+2024-04-04,be217d02-5f7f-40a8-83ab-c59336db1324,Tablet,300,1,WELCOME20,New York,Debit Card,Pending,2024-04-09,justinflores@yahoo.com
+2024-03-24,b51bdd67-681d-4004-a428-b0bcff69ac22,Printer,100,2,SAVE10,Dallas,PayPal,Returned,2024-03-26,turneramy@hotmail.com
+2023-09-20,45f31a6a-43f9-4d6e-99df-a095e245d291,Laptop,1000,4,FREESHIP,Los Angeles,Debit Card,Shipped,2023-09-25,taylorjeffery@gmail.com
+2023-12-17,d05e1dd0-d379-4ba5-ba0c-0c7917404141,Keyboard,30,5,FREESHIP,San Antonio,PayPal,Returned,2023-12-19,reillydavid@hotmail.com
+2024-07-16,673b970a-6ba0-4baf-a444-828b47d7609e,Headphones,50,3,BUY1GET1,San Jose,Debit Card,Delivered,2024-07-23,corey41@yahoo.com
+2023-05-11,0e2db289-3504-4ed8-af74-2f7a609db1e5,Tablet,300,1,BUY1GET1,Philadelphia,Gift Card,Cancelled,2023-05-16,wkennedy@garcia.org
+2023-09-10,f75b8ba9-8e27-4d04-9110-9ff0a5215a05,Laptop,1000,2,FREESHIP,Los Angeles,PayPal,Returned,2023-09-13,ecoleman@williams.biz
+2023-04-02,625a54e4-e34a-4d49-a613-7b7ba5e1670b,Printer,100,5,SAVE10,San Antonio,Net Banking,Pending,2023-04-05,qlee@yahoo.com
+2024-01-18,e41cb095-6c42-4a94-bf8a-80a2658faa5e,Keyboard,30,2,SAVE10,San Jose,Gift Card,Pending,2024-01-20,angela25@gmail.com
+2023-08-09,da84f166-c3f0-4907-bfd3-c70e8adf6bc0,Printer,100,1,WELCOME20,Los Angeles,Gift Card,Shipped,2023-08-14,miranda18@hotmail.com
+2023-03-28,a6234f9e-2f38-4626-af90-d079442d09cc,Monitor,150,1,WELCOME20,Phoenix,PayPal,Pending,2023-04-04,jasoncarr@allen-nguyen.info
+2023-01-25,fa0980e6-b7e6-4eec-9d73-0605aec7ca52,Mouse,20,2,FREESHIP,San Jose,Debit Card,Returned,2023-01-28,josephfloyd@smith.com
+2023-12-07,71c38a72-c768-46bb-94b3-8699e5bcae39,Tablet,300,2,FREESHIP,Houston,Net Banking,Cancelled,2023-12-14,lgarza@smith.com
+2023-10-17,4297257f-c8ea-4132-9fd6-35dc92101e77,Laptop,1000,3,FREESHIP,Houston,Net Banking,Pending,2023-10-24,wallaceheather@horn-miller.com
+2024-12-04,22ba2a0c-7d25-46b8-b2d9-e13d5b8aefec,Mouse,20,3,BUY1GET1,San Antonio,Credit Card,Returned,2024-12-11,taylormcbride@hotmail.com
+2023-05-27,1d50c2de-2ed3-478a-be37-8bcd9d285145,Headphones,50,4,SAVE10,New York,PayPal,Returned,2023-06-02,emilymejia@hotmail.com
+2024-02-15,e214b341-6e5b-4392-befc-4d4e84b7eb92,Monitor,150,1,FREESHIP,San Diego,Debit Card,Delivered,2024-02-19,matthewsjesse@yahoo.com
+2024-03-24,e8c2b1d1-be00-4b79-a615-950c6db00369,Tablet,300,1,SAVE10,Los Angeles,Net Banking,Pending,2024-03-27,david06@cummings-clarke.com
+2023-02-06,57250ef6-19b8-4661-96fa-dca2d500108b,Keyboard,30,5,FREESHIP,Phoenix,Debit Card,Shipped,2023-02-10,nriley@hotmail.com
+2024-11-19,7801415d-ed17-4576-bb2a-c77693fcb113,Smartphone,700,2,WELCOME20,Houston,Net Banking,Returned,2024-11-25,christopher84@fischer.org
+2024-12-17,c49e5ab0-40e0-4ce3-bf19-f1a4135af4fe,Keyboard,30,5,WELCOME20,Dallas,Debit Card,Delivered,2024-12-22,olsonfrancisco@gmail.com
+2023-12-11,d0d4e60f-05a9-42fc-b9d6-c4de1e2efc0e,Printer,100,5,WELCOME20,Philadelphia,Net Banking,Returned,2023-12-16,bnorris@yahoo.com
+2024-01-18,80745108-2fa8-4106-8d73-23f3423f8c9c,Keyboard,30,5,SAVE10,Phoenix,Debit Card,Returned,2024-01-21,garzajonathan@gmail.com
+2023-10-14,bfe69ad9-02e5-4485-85c9-268a25770040,Smartphone,700,1,BUY1GET1,Dallas,Debit Card,Pending,2023-10-19,mmyers@wiley.com
+2024-04-20,7e2f3cb4-0091-49aa-986c-4593a4dac9f2,Keyboard,30,5,SAVE10,Phoenix,PayPal,Cancelled,2024-04-25,norrisjohn@johnson.com
+2024-02-15,6bb6dd41-2a95-4b60-865f-8301c153e4df,Printer,100,1,SAVE10,San Antonio,Debit Card,Shipped,2024-02-18,patricksullivan@yahoo.com
+2023-04-01,731fd453-4830-4895-87fb-373c424cf5f4,Smartwatch,200,2,SAVE10,Houston,Debit Card,Returned,2023-04-05,martinjames@johnson-fischer.biz
+2024-10-10,424bf380-696f-4ce3-8e2c-def039a6d022,Smartwatch,200,5,WELCOME20,Los Angeles,Gift Card,Shipped,2024-10-13,colton97@hotmail.com
+2024-06-11,9bc84e23-c863-4bb6-8150-431489a93393,Tablet,300,5,FREESHIP,San Jose,Gift Card,Delivered,2024-06-16,ramirezashley@yahoo.com
+2024-07-20,8b0e912a-be68-4a9d-b6a2-ac906dd28444,Headphones,50,4,WELCOME20,San Antonio,Debit Card,Pending,2024-07-27,alexander67@fox-bennett.info
+2023-02-18,dc073fb0-64ac-44d6-951f-238cdf7a7e7c,Monitor,150,3,FREESHIP,San Diego,Net Banking,Shipped,2023-02-25,brenda78@lucero.com
+2023-08-30,2ed838d0-8244-4aa6-bb9a-c4d4dd3f0f92,Headphones,50,1,WELCOME20,Houston,Net Banking,Returned,2023-09-03,uanderson@obrien-smith.com
+2025-01-17,2e547342-4c29-4298-9e12-00009c088a38,Smartwatch,200,5,FREESHIP,Philadelphia,PayPal,Delivered,2025-01-22,gabrielle16@brown-thomas.com
+2024-02-25,d823e3c5-471b-4907-8d6f-99eab74a7933,Tablet,300,4,FREESHIP,New York,Net Banking,Shipped,2024-03-02,lozanofrank@gmail.com
+2024-08-02,2451f737-9496-43bd-87a8-a023eb5479df,Mouse,20,5,BUY1GET1,Philadelphia,PayPal,Shipped,2024-08-07,amandalowery@wright.com
+2023-03-08,78624a2e-51b8-4b0c-a215-b09a83524996,Smartphone,700,3,BUY1GET1,New York,Debit Card,Shipped,2023-03-13,jamie27@spencer-chen.com
+2023-01-22,fde3d7b3-da31-4bae-b684-914df845e7b1,Smartwatch,200,5,FREESHIP,San Antonio,Gift Card,Pending,2023-01-28,briancooper@rose.info
+2023-11-26,49a93916-a215-4b96-82dc-f9759130fe64,Printer,100,5,WELCOME20,San Antonio,Gift Card,Delivered,2023-11-28,martingarrett@hotmail.com
+2025-04-25,38bd0660-3c43-469e-b8e8-06f9ee958c38,Keyboard,30,5,SAVE10,Dallas,PayPal,Returned,2025-04-30,kyle75@brown-parsons.com
+2023-03-27,28f9fde6-3cd1-43ee-b328-ceccce03081a,Laptop,1000,3,FREESHIP,Los Angeles,PayPal,Shipped,2023-04-01,kbaird@hotmail.com
+2023-02-08,5db3dee7-799c-4085-8b48-e8e14c87b510,Smartphone,700,2,BUY1GET1,Chicago,PayPal,Shipped,2023-02-10,kristen45@hill.org
+2024-03-13,3812eb41-a517-4263-bf51-c23f105cfb0e,Printer,100,1,SAVE10,Dallas,Gift Card,Delivered,2024-03-19,hollyherrera@gmail.com
+2023-09-28,4d5e5769-5399-4826-b7c5-1262eecf1f2c,Mouse,20,1,FREESHIP,San Antonio,Credit Card,Cancelled,2023-10-05,katrinawhite@allen.org
+2023-05-27,1da9c61f-878c-4901-bdc4-0bfe1f13a54d,Monitor,150,2,WELCOME20,Philadelphia,Debit Card,Returned,2023-05-29,barbarajones@yahoo.com
+2024-02-15,1ec658e1-de99-4e1d-8abb-31e78c14f801,Monitor,150,4,SAVE10,Philadelphia,Net Banking,Delivered,2024-02-19,ericramirez@perez.org
+2024-07-25,e766eebc-5057-4830-a8c3-d2f4a258a60b,Printer,100,3,SAVE10,New York,Gift Card,Pending,2024-07-28,daniel84@hotmail.com
+2025-03-27,3b633ed2-07f1-41d7-bd4a-e975d891b52e,Keyboard,30,1,WELCOME20,Houston,Debit Card,Shipped,2025-03-31,amy52@gmail.com
+2023-01-06,ae14973e-7199-4e0c-b458-4e7cd4b15eba,Laptop,1000,4,WELCOME20,Philadelphia,Debit Card,Shipped,2023-01-13,elizabeth99@sanchez-davis.com
+2023-02-09,10131f1f-3a0b-4b35-b550-1d421c6f9d00,Mouse,20,4,WELCOME20,Dallas,PayPal,Returned,2023-02-15,patricia97@yahoo.com
+2025-04-11,cb1aa48c-6701-4e8b-b470-ae970894b41a,Keyboard,30,3,BUY1GET1,Los Angeles,Credit Card,Returned,2025-04-13,charles49@hotmail.com
+2023-04-04,6ceda613-8d61-43a2-8a08-7604ef74b059,Smartphone,700,2,FREESHIP,Chicago,PayPal,Cancelled,2023-04-10,hollyreed@gmail.com
+2024-04-08,aceff708-be06-43ac-91f7-12a0aa3a2fd1,Printer,100,3,SAVE10,Los Angeles,PayPal,Shipped,2024-04-14,carterstephen@hotmail.com
+2024-06-01,c3ab2b21-6d5e-400b-b82e-6bb6307f44b6,Smartphone,700,5,FREESHIP,Phoenix,PayPal,Cancelled,2024-06-04,rogersjustin@hotmail.com
+2023-07-22,ed421af5-6e97-453c-8952-55c84a568701,Laptop,1000,2,BUY1GET1,San Antonio,Credit Card,Pending,2023-07-27,pspencer@hotmail.com
+2024-12-12,33d00409-1f91-46b0-8817-43c2fbc751fe,Mouse,20,4,BUY1GET1,Dallas,Credit Card,Pending,2024-12-17,saundersnicole@gmail.com
+2025-03-12,5f343db0-60dc-4fa0-88a4-4b748d5a8a5a,Monitor,150,3,WELCOME20,New York,Net Banking,Delivered,2025-03-18,yking@walsh.info
+2023-08-30,0f8ab833-6552-4069-99b2-55219d560b4c,Smartwatch,200,1,FREESHIP,San Antonio,Debit Card,Returned,2023-09-01,edward25@hotmail.com
+2023-07-21,579e9169-70c3-4df7-a622-8059b2761099,Keyboard,30,1,BUY1GET1,New York,Credit Card,Returned,2023-07-23,hillbarbara@olsen-andrade.net
+2023-02-14,231842cb-1c23-43de-ae1c-2432f91b9c1c,Laptop,1000,2,SAVE10,Dallas,Gift Card,Cancelled,2023-02-19,ehunt@yahoo.com
+2024-04-01,f6a1c66c-2a83-4922-9ca8-0f2ee790bbae,Keyboard,30,2,WELCOME20,San Diego,PayPal,Shipped,2024-04-05,eric77@yahoo.com
+2023-11-09,f680b40f-a34f-4914-8dc9-9549ac3bbe42,Keyboard,30,4,BUY1GET1,Phoenix,Net Banking,Pending,2023-11-13,mary98@robertson-anderson.net
+2023-07-29,e4a1d9c0-6631-4be9-aa50-fc641981fde6,Smartphone,700,3,SAVE10,Los Angeles,Credit Card,Cancelled,2023-08-03,warnerbrent@smith.net
+2024-12-13,796cf6fe-10d6-4400-80fd-5a956d852bce,Laptop,1000,4,BUY1GET1,Houston,Debit Card,Pending,2024-12-16,iwilson@hotmail.com
+2023-04-11,4c6d676a-d1b4-4748-a8e5-fb1af58617b5,Tablet,300,5,BUY1GET1,San Jose,PayPal,Returned,2023-04-16,michael17@hotmail.com
+2023-09-26,7246a1be-570a-4166-b9b8-d9554ab843bd,Laptop,1000,4,BUY1GET1,Phoenix,Net Banking,Returned,2023-09-29,griffinamy@sosa.com
+2024-02-04,5b34da5f-d2f2-479a-a25f-93a999163c90,Tablet,300,2,WELCOME20,San Diego,Net Banking,Cancelled,2024-02-07,bernardcassandra@yahoo.com
+2024-05-06,a2d1eda5-e100-4b22-9117-3ccae877d8a1,Smartwatch,200,5,BUY1GET1,Philadelphia,Credit Card,Shipped,2024-05-09,brucecatherine@hotmail.com
+2023-09-14,4c62067c-c2d4-4bb0-8e9e-bf5f58a06ceb,Smartwatch,200,4,FREESHIP,Dallas,Credit Card,Shipped,2023-09-18,jerome34@garcia.com
+2025-04-08,a45ff6b4-9878-447c-9b07-f0d67dc86d2a,Keyboard,30,4,BUY1GET1,New York,PayPal,Cancelled,2025-04-12,buckgregory@gmail.com
+2023-08-07,3489c1ad-ff89-4c59-a70b-82c70f7b4191,Monitor,150,4,SAVE10,Phoenix,PayPal,Shipped,2023-08-11,kristen04@gmail.com
+2023-04-16,018b00b2-93c1-446c-9a5f-b1c9b8229f17,Mouse,20,2,BUY1GET1,Los Angeles,Debit Card,Delivered,2023-04-18,henry47@ortiz.com
+2023-03-05,ab5beda5-0624-4d3b-8388-9b9eadf90ab1,Mouse,20,2,SAVE10,San Antonio,Gift Card,Delivered,2023-03-12,louismurphy@yahoo.com
+2023-07-26,96e2bd94-23ce-4b57-a99a-421dc06f4162,Smartwatch,200,2,BUY1GET1,Houston,Credit Card,Cancelled,2023-07-28,morrischeryl@bond.com
+2023-05-20,a28fce9e-cb04-4bf0-8407-ef930a22895a,Laptop,1000,2,FREESHIP,San Jose,PayPal,Returned,2023-05-25,gutierreztammy@hotmail.com
+2023-08-24,2b0a02c6-2be0-442b-a143-402ea46386cb,Tablet,300,2,BUY1GET1,Phoenix,Gift Card,Returned,2023-08-29,tina98@newman.biz
+2024-02-24,9bc359d9-0a1a-4291-bc05-f4bd15d9d734,Keyboard,30,3,SAVE10,Phoenix,PayPal,Shipped,2024-03-02,morgancarla@hotmail.com
+2023-08-20,f6e3bdd0-e104-4162-a122-b4537a728a09,Headphones,50,2,SAVE10,Chicago,PayPal,Pending,2023-08-22,cesar46@hotmail.com
+2024-10-29,57f99ed5-bff3-4a7e-bec9-abe863ac1320,Tablet,300,5,SAVE10,Philadelphia,Gift Card,Cancelled,2024-11-02,rachel75@gmail.com
+2023-11-27,5f521faf-1f3c-49b6-bb66-31e8609e415d,Smartwatch,200,5,WELCOME20,New York,PayPal,Shipped,2023-11-29,franciscomeyers@gonzales.net
+2025-04-03,d819513d-e666-4bf3-86cb-d57d8743af95,Keyboard,30,3,SAVE10,Chicago,PayPal,Shipped,2025-04-10,zcox@livingston.com
+2023-02-12,de783a23-d10c-4dc4-8ffd-6f695f02b332,Tablet,300,1,BUY1GET1,Houston,Debit Card,Returned,2023-02-16,wlambert@wilson.com
+2024-09-15,6964b191-c329-4433-a8f2-3649608e718b,Mouse,20,5,FREESHIP,Houston,Gift Card,Delivered,2024-09-22,kbarnes@taylor.com
+2024-07-14,86c96830-ee77-413a-b982-62f55798edc0,Monitor,150,5,SAVE10,New York,Gift Card,Cancelled,2024-07-16,ericschwartz@hotmail.com
+2025-04-07,ebe95ec3-0f66-4fa4-8f2d-ead07866ad22,Mouse,20,3,FREESHIP,San Antonio,Debit Card,Cancelled,2025-04-09,michelle93@hotmail.com
+2024-03-04,1d2c1556-54ec-433a-b3eb-82dd7a8b314b,Laptop,1000,2,FREESHIP,New York,Credit Card,Delivered,2024-03-08,edwardsaaron@thompson.info
+2023-09-25,a3780252-8a97-441e-af06-bb108b81ed5b,Laptop,1000,4,WELCOME20,Chicago,PayPal,Delivered,2023-09-27,schultzronald@yahoo.com
+2024-04-11,39e0b7a9-298c-46c6-8b9a-dbac0a00c729,Printer,100,5,BUY1GET1,Dallas,PayPal,Returned,2024-04-18,samantha35@yahoo.com
+2023-03-29,70e5c7dc-6541-4af9-ab8e-33cebec91b21,Monitor,150,5,BUY1GET1,San Jose,Debit Card,Delivered,2023-04-03,steven18@yahoo.com
+2023-09-26,690fbf00-876a-4e80-97f9-08009d69f465,Smartphone,700,3,FREESHIP,San Jose,Gift Card,Delivered,2023-09-30,kevin52@hotmail.com
+2024-07-03,55a38b0f-544d-46e5-8954-a75dbba31dd8,Smartphone,700,5,SAVE10,Los Angeles,Debit Card,Cancelled,2024-07-09,esharp@hotmail.com
+2025-04-01,5250f214-eda5-4705-a2e8-e118f451be53,Smartwatch,200,5,WELCOME20,San Jose,Credit Card,Shipped,2025-04-03,james71@gmail.com
+2023-04-18,777209c3-bdab-4dc8-b724-0cbdd59222d0,Laptop,1000,2,BUY1GET1,Dallas,Debit Card,Pending,2023-04-23,scottjohn@gmail.com
+2025-05-01,d5bd2374-2ddc-4182-ace0-b30a7313dfb1,Smartwatch,200,1,BUY1GET1,Phoenix,Gift Card,Delivered,2025-05-05,eric96@khan-rodriguez.com
+2024-11-02,f36d3de3-7119-462e-a1d5-4c14a93a221a,Tablet,300,4,WELCOME20,San Diego,Net Banking,Delivered,2024-11-09,tracimitchell@diaz-anderson.com
+2025-02-26,d7f0d272-08e3-4d11-be5e-0780007ace2b,Laptop,1000,4,WELCOME20,San Diego,PayPal,Cancelled,2025-03-01,munozjennifer@gmail.com
+2024-09-14,e161c6fe-9b0c-4cca-a286-42d37b3f0a59,Tablet,300,4,FREESHIP,Philadelphia,Debit Card,Delivered,2024-09-18,melissa22@hotmail.com
+2025-04-28,55e17f77-6122-44b4-9088-d44ccaee9a53,Smartwatch,200,2,SAVE10,New York,PayPal,Shipped,2025-04-30,robert38@hotmail.com
+2024-09-20,00a5d93c-2cd6-4b37-b855-a71660c23d87,Monitor,150,3,SAVE10,Phoenix,Gift Card,Pending,2024-09-25,richardsdiana@solomon.info
+2023-10-01,9de03a7b-64c0-4486-afc4-6911d149559f,Printer,100,2,SAVE10,Houston,Debit Card,Pending,2023-10-08,ablanchard@hotmail.com
+2023-08-12,95dfab93-4eb6-4646-b306-747a17d77526,Smartwatch,200,5,WELCOME20,Houston,Credit Card,Pending,2023-08-19,johnbrady@yahoo.com
+2024-02-08,1277101a-e4b6-4373-9214-2f678681e7a6,Headphones,50,1,SAVE10,San Jose,Gift Card,Shipped,2024-02-12,wendy00@martin-kelly.biz
+2023-04-30,a1f2c606-982a-4678-8d21-61f875387f80,Monitor,150,1,FREESHIP,Chicago,Net Banking,Delivered,2023-05-07,tlin@yahoo.com
+2025-04-23,85a6aca7-a244-4392-80c0-f2595de4e755,Keyboard,30,3,SAVE10,Chicago,Credit Card,Returned,2025-04-27,danny81@gmail.com
+2023-06-22,629d7fa7-688a-4ee2-a8be-1f5187ad5cf9,Mouse,20,5,BUY1GET1,Chicago,Credit Card,Cancelled,2023-06-26,scott02@salazar.com
+2023-01-31,d661d6bd-2126-4c6b-bd49-30ede6f9df7e,Smartphone,700,4,WELCOME20,San Diego,Credit Card,Returned,2023-02-02,katherinesimmons@warren.org
+2024-03-12,62047e60-cf98-48cc-8156-cd52fff9bba7,Monitor,150,1,WELCOME20,Los Angeles,Debit Card,Delivered,2024-03-18,ronaldbrewer@williamson-benson.biz
+2023-10-08,8cc0a99e-012a-4af2-89c6-5628c7b60013,Monitor,150,4,SAVE10,Houston,Debit Card,Cancelled,2023-10-15,rogerscarol@harris.info
+2025-04-30,5fcf4a49-138b-4c6b-8000-590cb3e4f871,Smartwatch,200,3,SAVE10,Houston,Credit Card,Pending,2025-05-05,lisaho@adkins.biz
+2023-12-22,5f336ef6-91af-4058-8d36-a4b9d0488264,Headphones,50,4,BUY1GET1,Philadelphia,Credit Card,Pending,2023-12-27,longjessica@miller-smith.com
+2023-02-01,9480a9e4-f743-4e4c-996c-3b015134f9b3,Headphones,50,2,SAVE10,San Jose,Net Banking,Returned,2023-02-07,bwilliams@hotmail.com
+2023-11-28,9a6e978d-4e2f-4009-9bdc-e6c87d3b03a6,Headphones,50,3,SAVE10,San Antonio,Debit Card,Returned,2023-12-02,richardking@yahoo.com
+2023-12-25,63f859c4-fbaa-4f7e-9f78-b320591cbf97,Mouse,20,2,FREESHIP,Dallas,Net Banking,Shipped,2023-12-28,thomas57@gmail.com
+2024-07-09,dd6492e3-d025-453e-a2e6-148903a7b0f4,Smartphone,700,5,BUY1GET1,Chicago,Gift Card,Delivered,2024-07-15,snyderjoseph@phelps.info
+2024-09-13,805550e3-d477-4e76-8494-9b137a655eba,Monitor,150,1,BUY1GET1,Philadelphia,Net Banking,Delivered,2024-09-15,oedwards@miller.com
+2025-04-01,8fb3726a-3e97-45b0-9a7d-fa350ac36e8b,Smartwatch,200,5,SAVE10,San Antonio,Credit Card,Returned,2025-04-07,mikespears@hotmail.com
+2024-06-20,e8e10eb3-8bfd-4ab7-b724-f335c053c572,Keyboard,30,2,FREESHIP,Chicago,Credit Card,Returned,2024-06-26,megancarey@johnson-johnson.com
+2024-05-11,ceb66a43-cc0f-44e8-aa11-cf194c29f409,Mouse,20,1,WELCOME20,San Jose,Gift Card,Pending,2024-05-14,cjohnson@gmail.com
+2025-04-05,9c67e226-605b-4538-be66-b99a1cd064c7,Keyboard,30,2,WELCOME20,Los Angeles,Gift Card,Delivered,2025-04-11,gharding@silva.com
+2023-05-30,3a709949-0859-424f-8f5b-45730dbcc745,Printer,100,5,WELCOME20,San Antonio,Net Banking,Returned,2023-06-05,mjackson@thomas-carpenter.org
+2023-12-26,283d9dcc-8201-4317-89db-28d746024035,Laptop,1000,2,BUY1GET1,San Diego,Net Banking,Returned,2023-12-30,aperry@yahoo.com
+2023-03-14,81032c54-e509-4955-8a32-82a7864332ad,Monitor,150,4,WELCOME20,Dallas,PayPal,Cancelled,2023-03-21,baileyzachary@hotmail.com
+2023-05-15,bb1cc763-d3f3-4724-bd38-e2ad3815890e,Smartphone,700,1,WELCOME20,New York,PayPal,Delivered,2023-05-17,masonerin@roy-foster.org
+2023-12-30,9f969382-dfb3-4315-956b-4fc68978d5fa,Monitor,150,1,WELCOME20,Chicago,Debit Card,Pending,2024-01-04,kathrynwade@hotmail.com
+2024-09-23,afe65836-341b-422d-9e93-0b5311cf549e,Printer,100,3,SAVE10,San Antonio,PayPal,Delivered,2024-09-25,charlesharris@lang.net
+2025-04-14,f14c03e7-c66d-4295-8d10-db3268b0da36,Smartphone,700,4,SAVE10,San Diego,Debit Card,Shipped,2025-04-19,aguilartravis@gmail.com
+2025-03-15,eff5ffc1-bb4b-4ed7-9a21-4283cf12c51f,Headphones,50,2,BUY1GET1,Houston,Net Banking,Pending,2025-03-21,amy77@taylor.com
+2023-04-01,3fa9d25f-f8d1-4c10-9755-45d68cbd1246,Laptop,1000,4,SAVE10,New York,PayPal,Shipped,2023-04-03,michael59@reed.biz
+2024-05-28,70535360-c0d0-4a83-82f9-683b0607b05c,Smartwatch,200,4,BUY1GET1,Los Angeles,Net Banking,Pending,2024-06-04,dthomas@gmail.com
+2023-06-01,7bbaa9e2-889f-4090-b71a-9eaa9b29ce60,Monitor,150,2,WELCOME20,Los Angeles,PayPal,Cancelled,2023-06-03,srios@gmail.com
+2025-03-01,ab9040d9-3d5b-4ba5-b3c4-6f14877e8fa2,Smartphone,700,4,BUY1GET1,Philadelphia,Debit Card,Shipped,2025-03-06,hendersonerica@yahoo.com
+2024-04-11,57488008-75ec-45a6-b0dc-efa9bce2d318,Smartphone,700,2,WELCOME20,Phoenix,Gift Card,Shipped,2024-04-15,fwatkins@yahoo.com
+2024-10-18,1e22e226-7db4-4850-8d1e-cc5470ec7cdd,Printer,100,4,SAVE10,Philadelphia,Credit Card,Cancelled,2024-10-24,john86@bowman.com
+2023-09-28,1a3fe65a-e3b6-4c77-8f8d-5cac83d639b8,Headphones,50,1,BUY1GET1,Los Angeles,PayPal,Delivered,2023-10-04,wendyhodge@hotmail.com
+2023-01-30,6b697076-d40a-4b78-9178-28f0ea93c8d8,Laptop,1000,3,WELCOME20,Chicago,Debit Card,Pending,2023-02-04,morrischase@hotmail.com
+2023-02-10,fa11fafe-4511-4511-acf6-ba9cc894156d,Keyboard,30,2,SAVE10,Phoenix,Gift Card,Cancelled,2023-02-14,janicewelch@yahoo.com
+2023-03-11,b9f5f723-2af9-42c1-b723-83f101e2ca8c,Smartwatch,200,4,FREESHIP,Dallas,Net Banking,Delivered,2023-03-14,tmartinez@hotmail.com
+2023-07-17,cf2b5f9d-9744-453d-aeb2-7577b63f4c55,Keyboard,30,4,SAVE10,New York,PayPal,Delivered,2023-07-22,william26@manning-moon.biz
+2024-02-10,92e91d71-b6b4-4e94-a0cb-2fffc15e5848,Laptop,1000,2,FREESHIP,Dallas,Credit Card,Returned,2024-02-16,lindahumphrey@hotmail.com
+2025-01-19,2ca876cb-cd7d-4090-a561-cd2125eab9ca,Tablet,300,4,BUY1GET1,San Diego,Credit Card,Shipped,2025-01-21,bwilson@palmer.com
+2023-12-23,5a291c7f-6e88-41ff-b1a6-9784cf2c7a3c,Printer,100,4,WELCOME20,Phoenix,Credit Card,Cancelled,2023-12-28,qrubio@hotmail.com
+2024-03-28,f6f5bd8c-e44a-4523-afba-fc996d8542c6,Keyboard,30,4,BUY1GET1,San Diego,Credit Card,Pending,2024-04-02,rramirez@romero.org
+2023-06-19,3c8b7510-a622-48c9-9174-6ea0a329de26,Printer,100,2,FREESHIP,Houston,Credit Card,Returned,2023-06-22,angela44@gmail.com
+2024-09-25,9ac4d68b-4951-4b80-b9e3-afe148adb9a5,Laptop,1000,2,BUY1GET1,San Jose,Net Banking,Delivered,2024-10-02,mrichardson@estes-brown.info
+2023-03-12,f5a76d3d-be7b-4416-82e5-9f2cdf0a5952,Tablet,300,1,WELCOME20,San Jose,PayPal,Delivered,2023-03-17,rebecca52@howe-sutton.info
+2023-04-09,b3e15a60-7842-4231-acbf-325b93bd508d,Keyboard,30,2,WELCOME20,Phoenix,Gift Card,Pending,2023-04-16,dominguezjeff@villegas.net
+2023-02-11,c7f66c56-97e1-4021-9380-215b9215ceda,Mouse,20,4,WELCOME20,San Jose,PayPal,Returned,2023-02-13,lindacampbell@gmail.com
+2024-07-07,772719f5-b5d9-4868-a6fb-af5062bc42e1,Mouse,20,1,BUY1GET1,Phoenix,Credit Card,Returned,2024-07-14,cynthiachapman@gmail.com
+2023-07-30,8eeb90cc-552a-433c-84a6-1fb5062aa904,Smartwatch,200,1,BUY1GET1,Houston,Gift Card,Returned,2023-08-01,michaelerickson@hotmail.com
+2024-03-27,d9aff902-8e05-46e9-8556-b02cfc0e2d69,Headphones,50,1,FREESHIP,San Diego,Net Banking,Pending,2024-04-01,rosscameron@shaw.com
+2024-04-27,ce303527-10c2-4c2e-bd00-2a626bdaf032,Keyboard,30,4,WELCOME20,Chicago,Gift Card,Cancelled,2024-05-04,brownjessica@white-harris.com
+2024-12-24,8b6d5855-9bf6-4265-87d1-45d840678eab,Smartwatch,200,4,SAVE10,San Antonio,Credit Card,Cancelled,2024-12-28,joshua30@gmail.com
+2023-01-25,ce792abd-617b-4b87-b498-a5113e765ebe,Smartwatch,200,5,FREESHIP,Philadelphia,PayPal,Pending,2023-01-29,davisjeffery@hotmail.com
+2024-12-20,5d0e7c1b-39bd-4b6c-af09-5f88d0ab8bf9,Tablet,300,2,BUY1GET1,Los Angeles,Net Banking,Shipped,2024-12-23,stephanie11@gmail.com
+2024-09-02,04e0037a-f970-4e51-9bd1-86fc0e4ffacc,Printer,100,5,FREESHIP,San Jose,Debit Card,Cancelled,2024-09-06,rogermitchell@yahoo.com
+2024-11-18,af12521a-f5a3-4a0e-b939-8ffc939bf7ca,Monitor,150,4,SAVE10,Chicago,Gift Card,Shipped,2024-11-21,qle@jackson.com
+2023-08-20,7e7731d4-7bbb-4bb7-8ed3-754366cd3f15,Keyboard,30,3,FREESHIP,Los Angeles,Net Banking,Delivered,2023-08-26,djensen@hernandez.com
+2024-03-09,cbc73849-ad99-4e50-8a18-2e98ffc48c5b,Printer,100,1,BUY1GET1,New York,Credit Card,Pending,2024-03-14,jmorse@allen.com
+2025-01-25,1f87a7a1-ec9d-45bd-b906-f3e942f2d80a,Headphones,50,5,BUY1GET1,Phoenix,Credit Card,Delivered,2025-01-29,hillmegan@richardson-porter.com
+2025-04-23,09cc9a2b-eaa6-48cf-9e6a-1e59aaec9c0f,Tablet,300,3,BUY1GET1,Philadelphia,Net Banking,Cancelled,2025-04-26,parkerrobert@hotmail.com
+2024-03-10,940ff965-2a34-4cdb-8ffb-ed003b76ea87,Smartphone,700,1,FREESHIP,Dallas,Credit Card,Delivered,2024-03-17,perickson@yahoo.com
+2023-05-01,b8513b4a-108e-441a-b8c4-1f5b7984a4ec,Smartwatch,200,2,WELCOME20,San Antonio,Credit Card,Shipped,2023-05-04,heathermarshall@warner.com
+2024-06-13,24af928f-14fb-464e-a573-42aa1548acbe,Keyboard,30,4,SAVE10,San Diego,Gift Card,Pending,2024-06-19,amanda35@hotmail.com
+2023-10-08,29c0a222-4114-42aa-bc5a-3d9ccc5b29c0,Headphones,50,2,WELCOME20,San Antonio,Credit Card,Returned,2023-10-12,wblankenship@hotmail.com
+2023-04-15,4da2c56d-d2de-4b3a-840b-50b6d415302b,Smartphone,700,3,WELCOME20,Philadelphia,Gift Card,Shipped,2023-04-22,gspencer@gmail.com
+2023-01-21,39ed8b82-a2cd-46e1-9247-d8da269d91eb,Keyboard,30,5,WELCOME20,Philadelphia,PayPal,Shipped,2023-01-27,philipatkinson@martinez.net
+2023-05-08,0d65fea6-ab50-4e6d-824b-5b18a844f2c1,Laptop,1000,3,SAVE10,Houston,Net Banking,Returned,2023-05-14,hudsonryan@levy-mullins.com
+2023-11-02,a9a7dcc6-c2dc-4f9d-8e88-298c68f6c12c,Mouse,20,5,WELCOME20,Los Angeles,Credit Card,Pending,2023-11-08,matthew65@hotmail.com
+2023-11-16,9485204e-b795-468e-9011-916836946874,Keyboard,30,4,SAVE10,New York,Net Banking,Returned,2023-11-18,matthewsmith@juarez-hinton.com
+2023-07-07,c49db90d-d536-44e9-9ae8-a5e50926f99a,Laptop,1000,5,BUY1GET1,San Diego,Credit Card,Shipped,2023-07-14,kerrkevin@yahoo.com
+2024-03-02,6474f92c-9350-499f-a70f-afc25341aace,Smartwatch,200,3,WELCOME20,San Jose,Credit Card,Shipped,2024-03-04,hernandezstephen@yahoo.com
+2025-02-16,3c0d0401-f73e-4581-9d9d-f234bedc8022,Laptop,1000,5,SAVE10,San Antonio,Credit Card,Delivered,2025-02-22,mburgess@collins-gray.com
+2024-07-20,d83e6d8e-91bf-446c-8f1e-52c2fe795171,Smartphone,700,5,WELCOME20,Los Angeles,Credit Card,Returned,2024-07-24,georgejones@lawrence-lewis.org
+2025-04-28,9a659884-07b8-4f45-bae8-d6273f18822c,Headphones,50,4,SAVE10,Houston,Credit Card,Shipped,2025-05-02,whitney57@yahoo.com
+2024-10-11,36b45987-8767-4dcc-a0cc-984907b81ff2,Headphones,50,5,BUY1GET1,Phoenix,Debit Card,Delivered,2024-10-13,daniel10@anderson.org
+2025-04-28,e0c74141-afbd-4f9a-9204-242f0e404b7b,Monitor,150,3,FREESHIP,Philadelphia,Gift Card,Delivered,2025-04-30,lcook@nelson.net
+2023-04-03,c0107d31-3383-49d5-9a32-f62754deb6c0,Smartphone,700,2,BUY1GET1,San Diego,PayPal,Shipped,2023-04-10,johngonzalez@erickson.net
+2023-08-07,5fa4c9b9-a100-42b6-80b9-6c4609edf152,Smartphone,700,2,FREESHIP,Philadelphia,Credit Card,Delivered,2023-08-11,christopherwyatt@yahoo.com
+2023-03-02,13b4625a-883a-4c27-972a-5a8d09116049,Keyboard,30,3,BUY1GET1,Dallas,Net Banking,Returned,2023-03-05,katiemartinez@moses.net
+2024-08-03,ec28f465-1521-4884-b602-f32e1fc4d820,Keyboard,30,5,BUY1GET1,Dallas,Gift Card,Delivered,2024-08-08,esteskatie@clay.biz
+2024-12-17,9a7e6557-1602-4c29-a614-9a29dc0d5a95,Mouse,20,5,SAVE10,Philadelphia,Gift Card,Cancelled,2024-12-19,dhaas@yahoo.com
+2023-05-11,e9400817-7a42-453a-8d86-66240703003f,Mouse,20,5,SAVE10,Dallas,Credit Card,Cancelled,2023-05-16,xarmstrong@hotmail.com
+2024-03-26,fc1221af-22e2-4aee-a6e7-b24c5099cfbe,Laptop,1000,5,FREESHIP,Phoenix,Credit Card,Cancelled,2024-03-28,joshuamartinez@gmail.com
+2025-01-12,1612da59-1eee-45af-ab22-1eb9e021738a,Mouse,20,2,BUY1GET1,Philadelphia,Net Banking,Cancelled,2025-01-17,ehayes@gmail.com
+2024-05-23,1f58ad40-855c-43b2-a96e-1c36d6f3c349,Smartwatch,200,3,SAVE10,New York,Credit Card,Delivered,2024-05-30,swong@peters.com
+2024-08-08,0bfc728f-e8cc-493d-8815-f192d03a14de,Mouse,20,4,BUY1GET1,San Antonio,PayPal,Shipped,2024-08-10,luisstout@hotmail.com
+2023-04-24,28395975-3615-4647-9c80-6af764c1a752,Headphones,50,3,WELCOME20,Los Angeles,PayPal,Pending,2023-04-27,xpearson@yahoo.com
+2024-04-22,b2186784-0e72-4cf4-9b06-e7568b4f1be2,Printer,100,5,SAVE10,San Diego,Debit Card,Pending,2024-04-27,brownjames@simmons.info
+2025-01-30,64e795bb-10c2-4019-a3c9-d32cf65d0b36,Laptop,1000,3,BUY1GET1,San Diego,Credit Card,Pending,2025-02-03,andrewpeters@hotmail.com
+2024-02-06,2340c357-61fb-46f1-a3a2-adfd4a8e08f2,Mouse,20,3,FREESHIP,San Antonio,Gift Card,Cancelled,2024-02-12,tara70@gmail.com
+2023-10-17,e1f9e313-241d-44f7-b888-cc6c7b2106ca,Laptop,1000,5,BUY1GET1,Phoenix,Net Banking,Shipped,2023-10-19,ghill@yahoo.com
+2023-01-16,0192f2a4-6957-4cfc-ad91-9334aeb7665e,Headphones,50,4,FREESHIP,New York,Credit Card,Delivered,2023-01-20,michael81@yahoo.com
+2024-09-26,ee276ee6-2743-434f-8a32-7632255f9756,Smartphone,700,2,WELCOME20,Phoenix,Gift Card,Delivered,2024-10-02,bwarren@hotmail.com
+2024-05-08,b8a4e0c5-72f8-44db-9f42-bf764e39146f,Keyboard,30,1,WELCOME20,New York,Credit Card,Cancelled,2024-05-15,rbarber@rodriguez-thompson.biz
+2024-11-07,d5fc96b4-b27f-40eb-8bce-24ae122bbdd7,Tablet,300,2,BUY1GET1,Chicago,PayPal,Cancelled,2024-11-11,xstewart@gmail.com
+2023-01-07,247db400-2a1a-43a6-895a-e337a93fda0d,Tablet,300,1,BUY1GET1,Houston,Credit Card,Shipped,2023-01-14,robert27@miller.com
+2023-07-12,414d050d-3bb6-4010-88e6-06a4c5540398,Smartphone,700,2,WELCOME20,San Diego,Debit Card,Pending,2023-07-17,jasondavis@hotmail.com
+2024-04-22,604bba9a-7c37-466b-9948-cf87565264f1,Headphones,50,1,BUY1GET1,New York,Gift Card,Returned,2024-04-28,heathervasquez@hotmail.com
+2023-08-31,c0bf5df3-38af-4c48-9711-f45f81a171e6,Tablet,300,4,FREESHIP,San Diego,PayPal,Delivered,2023-09-06,marybarajas@brock-gomez.biz
+2025-01-27,3007db93-1074-44e8-bfee-1a685ba8f1ce,Smartphone,700,4,BUY1GET1,San Diego,Gift Card,Returned,2025-01-29,awalker@hood.com
+2025-04-25,d36df25b-c55b-437c-b66d-2875adca8969,Laptop,1000,4,WELCOME20,San Diego,Gift Card,Cancelled,2025-04-28,brookskevin@simpson.info
+2023-11-05,c2af7008-ffac-4868-958a-c276ae4a53f5,Printer,100,3,WELCOME20,San Diego,Gift Card,Cancelled,2023-11-09,andersonlaura@gmail.com
+2024-12-24,379e9d6c-b1d3-4a7c-8630-bdbd0aa22cc4,Laptop,1000,1,SAVE10,Los Angeles,Net Banking,Shipped,2024-12-28,dduncan@hotmail.com
+2023-12-27,a945204f-4a6a-464d-a25e-04ddf53e19eb,Smartphone,700,5,BUY1GET1,San Jose,Credit Card,Pending,2023-12-31,timothy18@yahoo.com
+2023-11-10,67018cf6-f0fe-4ddd-89df-d8fab48339d4,Tablet,300,2,BUY1GET1,New York,Credit Card,Returned,2023-11-13,vwilliams@fox-clark.com
+2023-06-26,9f64ed36-6f42-448e-9799-5c2137a259bf,Headphones,50,4,BUY1GET1,New York,Net Banking,Delivered,2023-07-01,schultzlynn@yahoo.com
+2024-08-31,648d039d-b6e6-4f7d-b83b-5fb651d84cfd,Monitor,150,5,SAVE10,New York,PayPal,Pending,2024-09-04,nguyenray@yahoo.com
+2023-04-14,2d635eb7-6eb3-4c5e-bcdc-6df789b846b7,Headphones,50,3,SAVE10,Philadelphia,Debit Card,Pending,2023-04-20,heathkimberly@miller.com
+2023-05-21,481bbbd2-2a17-44c5-8524-5d59b1178336,Keyboard,30,5,WELCOME20,Houston,Credit Card,Returned,2023-05-28,stanleywhite@hotmail.com
+2024-08-21,7e898c7b-2d20-4431-95ff-2fa25da0269f,Monitor,150,3,WELCOME20,San Antonio,Debit Card,Returned,2024-08-26,hsanchez@yahoo.com
+2023-06-10,03b0c194-96e9-4b07-8644-cb333aed6505,Laptop,1000,5,FREESHIP,Phoenix,PayPal,Returned,2023-06-17,brandonpadilla@gamble.org
+2024-02-22,11ff4c49-80f5-4ced-8319-6553576072ff,Smartwatch,200,1,SAVE10,Philadelphia,PayPal,Delivered,2024-02-24,timothy01@gmail.com
+2025-04-27,91276211-e138-44a5-9db7-40d335b3cb35,Laptop,1000,4,FREESHIP,Phoenix,Credit Card,Shipped,2025-05-04,caldwellgregory@phillips.com
+2023-03-14,4b4b8dcf-eefa-4f47-a820-7041ec722058,Smartphone,700,5,WELCOME20,San Antonio,Net Banking,Delivered,2023-03-17,danielwilliams@miller.info
+2024-12-13,3e33d0e0-0695-4362-b76c-ae015758d136,Monitor,150,2,SAVE10,Chicago,Net Banking,Cancelled,2024-12-15,lgibbs@hotmail.com
+2023-11-11,e1aa5a09-a100-4169-a7e0-b2ce086b4299,Headphones,50,3,BUY1GET1,Houston,Credit Card,Returned,2023-11-14,pwolf@hotmail.com
+2024-02-22,217ad0ba-6ce5-4e0e-b34f-df58d74e2594,Monitor,150,5,SAVE10,Chicago,Debit Card,Delivered,2024-02-27,crystalcobb@jones.com
+2023-03-07,7ecad753-3199-4659-9be0-f524dbddde40,Monitor,150,4,BUY1GET1,Phoenix,Debit Card,Returned,2023-03-09,rayjessica@hotmail.com
+2025-03-01,812bcb85-496f-48a5-b567-4dd9905d6512,Laptop,1000,2,BUY1GET1,Houston,Credit Card,Cancelled,2025-03-05,adamsalejandro@carter.org
+2023-12-18,bcb170f5-9f88-4de6-bdc9-d84184977fe2,Headphones,50,5,BUY1GET1,Phoenix,Debit Card,Shipped,2023-12-23,stephenpadilla@richards.com
+2025-03-12,29588643-0c8a-4cd9-9d22-07cca77963aa,Laptop,1000,2,BUY1GET1,Los Angeles,Gift Card,Returned,2025-03-18,jackmartinez@garza.com
+2023-08-25,c67ebd50-c33e-46ac-860f-cc63a0bb231f,Headphones,50,4,WELCOME20,San Diego,Debit Card,Delivered,2023-08-29,geraldhansen@thompson-kelley.org
+2023-12-02,4ba1f3ce-c3a4-4bcb-a8cb-784caab999c7,Monitor,150,2,WELCOME20,Chicago,Net Banking,Returned,2023-12-04,ocabrera@ellis.net
+2023-07-18,808bc890-e738-47fb-89d4-ca2f5b2e1cb4,Tablet,300,4,WELCOME20,New York,Net Banking,Cancelled,2023-07-23,sharon04@yahoo.com
+2023-12-09,309601dc-4911-446a-bf54-beddc0af5738,Headphones,50,3,WELCOME20,San Jose,Credit Card,Delivered,2023-12-16,romerolauren@gmail.com
+2024-03-11,625cd810-7efe-4a08-9baf-b82d36ce4d59,Smartphone,700,4,SAVE10,New York,Credit Card,Pending,2024-03-13,jennifer83@castro-murray.com
+2024-04-18,965d95bf-4698-496e-9246-f20a389d5c6c,Mouse,20,5,SAVE10,Houston,Debit Card,Cancelled,2024-04-23,gonzalezsusan@mendoza.com
+2023-04-28,002412c7-db17-42e8-ba47-b66d0f7646b9,Keyboard,30,4,SAVE10,Dallas,Credit Card,Shipped,2023-05-04,randallcarla@gmail.com
+2024-05-19,1638ff33-c82e-4cc7-933f-40b11a641359,Laptop,1000,4,SAVE10,San Diego,Gift Card,Pending,2024-05-23,freemankatrina@frederick-stewart.com
+2023-06-05,eb472fcd-6ad5-41a9-a838-1fcdb64a5c8e,Headphones,50,2,SAVE10,San Jose,Debit Card,Pending,2023-06-09,paul47@parker.net
+2024-02-06,69f8916a-11ae-4114-a1ef-c8e9201b61fe,Printer,100,4,FREESHIP,San Jose,Net Banking,Cancelled,2024-02-08,smithsarah@skinner-holmes.com
+2023-07-31,207c2fe0-08ed-4bcb-9fd3-180beea448d2,Headphones,50,5,SAVE10,San Diego,Debit Card,Pending,2023-08-02,nguyenalexis@hotmail.com
+2025-01-16,43c84759-1140-453c-92e1-30e762ab5a40,Smartphone,700,3,WELCOME20,Chicago,Net Banking,Pending,2025-01-20,pkelley@rich.info
+2024-01-11,d116afa9-d699-4919-96ea-d4d0dc6beb60,Printer,100,3,SAVE10,Dallas,Debit Card,Returned,2024-01-13,kristicole@hotmail.com
+2024-01-13,54e8898f-137b-4d18-a393-b7df49dedf4a,Smartwatch,200,1,BUY1GET1,Philadelphia,PayPal,Delivered,2024-01-19,freemanjane@yahoo.com
+2024-09-12,299b3e40-3a31-4b5e-9427-bbebe23c5906,Mouse,20,3,WELCOME20,Houston,Gift Card,Pending,2024-09-15,davidgreen@barton-fitzgerald.com
+2024-06-09,71f7febf-6dab-405d-a051-ef7951e63c24,Printer,100,3,BUY1GET1,Phoenix,PayPal,Shipped,2024-06-14,christopher08@gmail.com
+2024-06-15,907681bf-70ce-4c85-9ad8-601223888f01,Printer,100,1,WELCOME20,San Jose,Credit Card,Pending,2024-06-19,frankperry@love.com
+2023-12-03,eab654cd-300b-4bb9-876b-e2b2d5df0981,Laptop,1000,3,FREESHIP,Chicago,Gift Card,Cancelled,2023-12-07,eric62@krueger.com
+2023-05-10,3aec0b92-b2bc-47d3-8b54-ef82df099715,Headphones,50,4,WELCOME20,Houston,Net Banking,Pending,2023-05-15,george38@holland.info
+2023-07-25,0861d9c3-0125-488a-b68b-d53737d2e43f,Smartwatch,200,4,WELCOME20,San Diego,Debit Card,Delivered,2023-07-29,reedtammy@hotmail.com
+2024-08-08,58330d7c-3ddc-443a-989e-a3f94850c497,Mouse,20,4,SAVE10,New York,Debit Card,Delivered,2024-08-15,knightheather@mcdowell-boyer.com
+2024-12-17,ccdd72df-2329-4c94-807d-a552ef595609,Printer,100,5,WELCOME20,Los Angeles,Net Banking,Cancelled,2024-12-24,zacharydelgado@gmail.com
+2024-12-10,5a107c6f-ae08-4cea-aa6b-062034ec8250,Keyboard,30,1,WELCOME20,San Antonio,Credit Card,Cancelled,2024-12-14,grantmark@compton.com
+2023-10-01,aa3d45d2-4b3b-4a5c-acd1-5392d78c1350,Mouse,20,2,FREESHIP,Houston,Net Banking,Pending,2023-10-07,kbass@kidd-bauer.net
+2024-06-16,a019e973-b837-40d2-abae-761a5268ac3c,Monitor,150,5,SAVE10,Phoenix,Credit Card,Cancelled,2024-06-18,allentiffany@hotmail.com
+2024-11-06,ca3a5c73-ff50-412c-a561-7b827d67353e,Mouse,20,4,FREESHIP,Los Angeles,Debit Card,Delivered,2024-11-13,reedamy@tyler.com
+2024-08-21,56283667-33a6-4dd1-869e-de28f0196532,Mouse,20,1,FREESHIP,Chicago,Gift Card,Pending,2024-08-25,lisa24@sanders-nguyen.com
+2023-02-24,b433fba9-5d3d-49f1-9fb9-1f2a4fd7db27,Keyboard,30,3,WELCOME20,Dallas,PayPal,Shipped,2023-03-01,fbarr@yahoo.com
+2024-05-01,7bb96cdb-cb9d-4c7e-af45-bd6919d7f746,Headphones,50,3,BUY1GET1,Dallas,Debit Card,Returned,2024-05-04,karen65@acevedo.com
+2024-02-09,5a8f7759-ceda-48f6-8153-e3914ce2e5a8,Smartphone,700,5,FREESHIP,Chicago,Net Banking,Shipped,2024-02-16,anthony43@hotmail.com
+2023-01-19,6c20517f-64a6-4886-87e2-84be7724e745,Monitor,150,5,FREESHIP,San Diego,Debit Card,Pending,2023-01-26,othompson@holland.info
+2024-04-26,4dbacb78-7950-468a-988e-22883cbc6bd0,Printer,100,3,BUY1GET1,Phoenix,Gift Card,Shipped,2024-05-02,julieconrad@manning-oconnor.info
+2023-05-08,530a518d-ab09-494a-8e05-39bb4d883544,Laptop,1000,2,FREESHIP,San Jose,Credit Card,Shipped,2023-05-13,robert60@moore.com
+2023-12-30,048d5424-0fd4-45f8-a9b1-42e79f1582da,Smartwatch,200,2,SAVE10,San Diego,Credit Card,Cancelled,2024-01-03,ingramtracey@martinez.com
+2024-05-15,0e2d9ce1-43ae-4851-aea3-3b73c67d55ee,Headphones,50,1,SAVE10,San Jose,PayPal,Shipped,2024-05-22,lynnjackson@gmail.com
+2024-01-14,faf4e507-bb9c-4a5b-a991-d017d91d1bac,Smartphone,700,2,BUY1GET1,Phoenix,Credit Card,Shipped,2024-01-20,cantrellstephanie@hotmail.com
+2025-03-28,47985762-1f33-4a83-bf8d-d33efa212a9f,Headphones,50,5,BUY1GET1,Chicago,Debit Card,Cancelled,2025-03-31,ganderson@bradford.com
+2024-09-03,53108bed-6355-4099-8f97-8a80091e9945,Headphones,50,3,FREESHIP,Phoenix,PayPal,Cancelled,2024-09-09,kleinkelli@yahoo.com
+2023-01-31,dce12bf3-fb1e-4d5b-95a7-2c5d2f6a1b6b,Headphones,50,2,BUY1GET1,Dallas,Credit Card,Cancelled,2023-02-05,meganmarsh@gmail.com
+2023-12-18,a2ddb5eb-01b9-4798-a392-48a200ce2aec,Keyboard,30,5,SAVE10,Chicago,PayPal,Shipped,2023-12-22,hugheswyatt@yahoo.com
+2023-06-12,56e6ab75-820b-421f-a9f4-f1360f2d8e3d,Monitor,150,3,BUY1GET1,Phoenix,Net Banking,Shipped,2023-06-17,teresarobbins@gmail.com
+2024-02-11,6b489388-162f-471f-aabd-6263a3a1352e,Monitor,150,3,WELCOME20,San Diego,Credit Card,Cancelled,2024-02-15,scottnguyen@hotmail.com
+2023-09-11,e23b59be-a5c4-4dc3-85cb-4f187674ef66,Keyboard,30,3,WELCOME20,Houston,PayPal,Cancelled,2023-09-15,williamhamilton@gmail.com
+2023-07-16,e31cdbf2-1ca8-4c9e-b91f-422d888ebce2,Tablet,300,2,BUY1GET1,Los Angeles,Gift Card,Delivered,2023-07-23,zsantiago@stevens.biz
+2024-12-02,9c4351ca-93ff-48f1-8736-f5cfbcef52a2,Monitor,150,3,FREESHIP,Philadelphia,PayPal,Shipped,2024-12-07,brandy83@hernandez-delgado.info
+2025-04-08,4b9a258a-141c-422b-833d-b775c7df1239,Headphones,50,1,FREESHIP,San Antonio,PayPal,Shipped,2025-04-13,georgecampbell@miller.net
+2023-11-03,ebaebe51-6cf4-4ba0-8350-852227e156d6,Laptop,1000,1,WELCOME20,Los Angeles,PayPal,Returned,2023-11-08,graymatthew@yahoo.com
+2025-04-19,be39a6fb-368c-4c26-acb4-371f89e47271,Smartwatch,200,5,WELCOME20,San Jose,Gift Card,Delivered,2025-04-21,charles27@gmail.com

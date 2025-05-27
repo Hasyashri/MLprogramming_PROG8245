@@ -1,0 +1,132 @@
+{
+    "product_catalog": [
+        {
+            "product": "Laptop",
+            "category": "Electronics",
+            "brand": "TechBrand",
+            "warranty_years": 2
+        },
+        {
+            "product": "Smartphone",
+            "category": "Electronics",
+            "brand": "MobilePro",
+            "warranty_years": 1
+        },
+        {
+            "product": "Tablet",
+            "category": "Electronics",
+            "brand": "TabWorld",
+            "warranty_years": 1
+        },
+        {
+            "product": "Headphones",
+            "category": "Accessories",
+            "brand": "SoundMagic",
+            "warranty_years": 1
+        },
+        {
+            "product": "Keyboard",
+            "category": "Accessories",
+            "brand": "KeyTouch",
+            "warranty_years": 1
+        },
+        {
+            "product": "Mouse",
+            "category": "Accessories",
+            "brand": "ClickEase",
+            "warranty_years": 1
+        },
+        {
+            "product": "Smartwatch",
+            "category": "Wearables",
+            "brand": "TimePro",
+            "warranty_years": 2
+        },
+        {
+            "product": "Monitor",
+            "category": "Electronics",
+            "brand": "ViewMax",
+            "warranty_years": 3
+        },
+        {
+            "product": "Printer",
+            "category": "Electronics",
+            "brand": "PrintWorks",
+            "warranty_years": 2
+        }
+    ],
+    "city_lookups": [
+        {
+            "city": "New York",
+            "region": "Northeast",
+            "country": "USA"
+        },
+        {
+            "city": "Los Angeles",
+            "region": "West",
+            "country": "USA"
+        },
+        {
+            "city": "Chicago",
+            "region": "Midwest",
+            "country": "USA"
+        },
+        {
+            "city": "Houston",
+            "region": "South",
+            "country": "USA"
+        },
+        {
+            "city": "Phoenix",
+            "region": "West",
+            "country": "USA"
+        },
+        {
+            "city": "Philadelphia",
+            "region": "Northeast",
+            "country": "USA"
+        },
+        {
+            "city": "San Antonio",
+            "region": "South",
+            "country": "USA"
+        },
+        {
+            "city": "San Diego",
+            "region": "West",
+            "country": "USA"
+        },
+        {
+            "city": "Dallas",
+            "region": "South",
+            "country": "USA"
+        },
+        {
+            "city": "San Jose",
+            "region": "West",
+            "country": "USA"
+        }
+    ],
+    "coupon_descriptions": [
+        {
+            "coupon_code": "SAVE10",
+            "description": "10% off on total order",
+            "validity_days": 30
+        },
+        {
+            "coupon_code": "FREESHIP",
+            "description": "Free shipping on orders over $50",
+            "validity_days": 60
+        },
+        {
+            "coupon_code": "WELCOME20",
+            "description": "20% off for new customers",
+            "validity_days": 15
+        },
+        {
+            "coupon_code": "BUY1GET1",
+            "description": "Buy one, get one free on select items",
+            "validity_days": 45
+        }
+    ]
+}
